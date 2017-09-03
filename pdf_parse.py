@@ -6,16 +6,14 @@ conn = sqlite3.connect('student_dat.sqlite')
 cur = conn.cursor()
 
 cur.executescript('''
-DROP TABLE IF EXISTS sdata;
-DROP TABLE IF EXISTS ex_scheme;
 
-CREATE TABLE sdata (
+CREATE TABLE IF NOT EXISTS sdata (
     roll INTEGER NOT NULL PRIMARY KEY UNIQUE,
     name TEXT
     --sid INTEGER,
     --scheme_id INTEGER
 );
-CREATE TABLE ex_scheme (
+CREATE TABLE IF NOT EXISTS  ex_scheme (
     paper_id INTEGER NOT NULL PRIMARY KEY UNIQUE,
     code TEXT,
     subject TEXT,
@@ -23,22 +21,60 @@ CREATE TABLE ex_scheme (
     type TEXT,
     minor INTEGER,
     major INTEGER,
+    pass_m INTEGER,
     sem INTEGER
 );
 ''')
 #finding exam scheme
 def exam(line):
+    _idx = [i for i, item in enumerate(line) if item.startswith('./Year:')]
+    _idx = line[_idx[0]].split()
+    sem = int(_idx[1])
     line_idx = [i for i, item in enumerate(line) if item.startswith('Pass Marks')]
     del line[:line_idx[0]+1]
-    sr_idx = [i for i, item in enumerate(line) if re.search('^\d{22}', item)]
+    sr_idx = [i for i, item in enumerate(line) if re.search('^\d{2}$', item)]
+    i = 0
     for j in sr_idx:
         try:
-            del line[j]
+            del line[j-i]
         except:
             pass
-    print(line)
-#    for i in line_n:
-#        print (i)
+        i = i + 1
+
+    for l in line:
+        sub_idx = [i for i, item in enumerate(line) if re.search('^\d{5}$', item)]
+    sub = list()
+    a = 0
+    b = 1
+    for l in sub_idx:
+        x = sub_idx[a]
+        if a == len(sub_idx)-1 :
+            y = len(line)
+        else :
+            y = sub_idx[b]
+        sub.append(line[x:y])
+        a = a + 1
+        b = b + 1
+
+    for s in sub:
+        #print(s)
+        paper_id = int(s[0])
+        code = s[1]
+        subject = s[2]
+        credit = int(s[3])
+        type_ = s[4]
+        if s[8] != '--':
+            minor = int(s[8])
+        else:
+            minor = None
+        if s[9] != '--':
+            major = int(s[9])
+        else:
+            major = None
+        pass_m = s[11]
+        #print(paper_id, code, subject, credit, type_, minor, major, pass_m, sem)
+        cur.execute('''INSERT OR IGNORE INTO ex_scheme (paper_id, code, subject, credit, type, minor, major, pass_m, sem) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)''',(paper_id, code, subject, credit, type_, minor, major, pass_m, sem))
+        conn.commit()
 #function to check data and save it to sql database
 def check_data(dat, n):
     if not (re.search("^\d{11}",dat[0]) and re.search("^SID: \d{12}",dat[2]) and re.search("^SchemeID: \d{12}",dat[3])): #checks the values of roll no nd ol
@@ -48,7 +84,7 @@ def check_data(dat, n):
     #sid = int(re.findall("\d+", dat[2])[0])
     #scheme_id = int(re.findall("\d+", dat[3])[0])
     #print(name, roll_no[0], sid[0], scheme_id[0])
-    cur.execute('''INSERT OR IGNORE INTO sdata (roll, name, sid, scheme_id) VALUES (?, ?, ?, ?)''',(roll_no, name, sid, scheme_id))
+    cur.execute('''INSERT OR IGNORE INTO sdata (roll, name) VALUES (?, ?)''',(roll_no, name))
     conn.commit()
     for l in dat:
         sub = [i for i, item in enumerate(dat) if re.search('^.?\d{5}\(\d\)$', item)] #finding indices of all the subjects
@@ -62,13 +98,19 @@ def check_data(dat, n):
         subs[re.findall("\d{5}",dat[l])[0]] = mark #creating dictionary of subject and its respective internal and external marks
     for key in subs:
         print(key,subs[key])
-
+        cur.execute('''CREATE TABLE IF NOT EXISTS ''' + '"' + str(roll_no) + '"' +''' (
+            sub INTEGER NOT NULL PRIMARY KEY UNIQUE,
+            internal TEXT,
+            external TEXT
+        )''')
+        cur.execute('''REPLACE INTO ''' + '"' + str(roll_no) + '"' +''' (sub, internal, external) VALUES (?, ?, ?)''',(int(key),subs[key][0],subs[key][1]))
+        conn.commit()
 
 pdfres = PyPDF2.PdfFileReader(open('028_ECE_4_SEM.pdf', 'rb'))
 pg = pdfres.getNumPages()
 j = 0
 count = 0
-while j < 1:
+while j < pg:
 
     try:
         res = pdfres.getPage(j)
