@@ -126,7 +126,7 @@ while j < pg:
         exam(line)
         continue
     line_idx = [i for i, item in enumerate(line) if item.startswith('RTSID:')] #finding all the unnecessary data
-
+    if len(line_idx) < 1: continue
     del line[:line_idx[0]+1] #removing all the unnecessary data
     #finding positions of roll no
     stud = list()

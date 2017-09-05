@@ -1,0 +1,757 @@
+Scheme of Programme Code: 021     Programme Name: BACHELOR OF EDUCATION      SchemeID: 100212015001     Sem./Year: 01 SEMESTER
+Institution Code: 149     Institution: MAHARAJA SURAJMAL INSTITUTE
+
+S.No. Paper ID
+
+Code
+
+Subject
+
+Credit
+
+Type
+
+Exam
+
+Mode
+
+Kind
+
+Minor
+
+Major
+
+Max. Marks Pass Marks
+
+ (SCHEME OF EXAMINATIONS)
+
+RESULT
+Prepared Date: 28/06/2016
+Declared Date:01/07/2016
+Page No.: 0001
+
+01
+
+02
+
+03
+
+04
+
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+21101
+
+BED101
+
+CHILDHOOD AND GROWING UP
+
+21103
+
+BED103
+
+PHILOSOPHICAL AND SOCIOLOGICAL FOUNDATIONS OF EDUCATION
+
+21105
+
+BED105
+
+LANGUAGE ACROSS THE CURRICULARM
+
+21107
+
+BED107
+
+UNDERSTANDING DISCIPLINE AND SUBJECTS
+
+21109
+
+BED109
+
+SCHOOL OF ORGANISATION AND MANAGEMENT
+
+21115
+
+BED115
+
+TEACHING OF HINDI - I
+
+21117
+
+BED117
+
+TEACHING OF ENGLISH - I
+
+21119
+
+BED119
+
+TEACHING OF SANSKRIT - I
+
+21121
+
+BED121
+
+TEACHING OF PUNJABI - I
+
+21123
+
+BED123
+
+TEACHING OF URDU - I
+
+21125
+
+BED125
+
+TEACHING OF MATHEMATICS - I
+
+21127
+
+BED127
+
+TEACHING OF SOCIAL SCIENCE - I
+
+21129
+
+BED129
+
+TEACHING OF HOME SCIENCE - I
+
+21131
+
+BED131
+
+TEACHING OF ACCOUNTANCY - I
+
+21133
+
+BED133
+
+TEACHING OF BUSINESS STUDIES - I
+
+21135
+
+BED135
+
+TEACHING OF POLITICAL SCIENCE - I
+
+21137
+
+BED137
+
+TEACHING OF ECONOMICS - I
+
+21139
+
+BED139
+
+TEACHING OF GEOGRAPHY - I
+
+21141
+
+BED141
+
+TEACHING OF HISTORY - I
+
+21143
+
+BED143
+
+TEACHING OF INTEGRATED SCIENCE - I
+
+21145
+
+BED145
+
+TEACHING OF PHYSICS - I
+
+21147
+
+BED147
+
+TEACHING OF CHEMISTRY - I
+
+21149
+
+BED149
+
+TEACHING OF BIOLOGY - I
+
+21155
+
+BED155
+
+UNDERSTANDING THE SELF
+
+21157
+
+BED157
+
+PSE (PRELIMINARY SCHOOL ENGAGEMENT)
+
+ 4 
+
+ 4 
+
+ 2 
+
+ 2 
+
+ 2 
+
+ 4 
+
+ 4 
+
+ 4 
+
+ 4 
+
+ 4 
+
+ 4 
+
+ 4 
+
+ 4 
+
+ 4 
+
+ 4 
+
+ 4 
+
+ 4 
+
+ 4 
+
+ 4 
+
+ 4 
+
+ 4 
+
+ 4 
+
+ 4 
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+THEORY
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+UES
+
+COMPULSORY
+
+DROPPABLE
+
+COMPULSORY
+
+DROPPABLE
+
+COMPULSORY
+
+DROPPABLE
+
+COMPULSORY
+
+DROPPABLE
+
+COMPULSORY
+
+DROPPABLE
+
+ELECTIVE
+
+DROPPABLE
+
+ELECTIVE
+
+DROPPABLE
+
+ELECTIVE
+
+DROPPABLE
+
+ELECTIVE
+
+DROPPABLE
+
+ELECTIVE
+
+DROPPABLE
+
+ELECTIVE
+
+DROPPABLE
+
+ELECTIVE
+
+DROPPABLE
+
+ELECTIVE
+
+DROPPABLE
+
+ELECTIVE
+
+DROPPABLE
+
+ELECTIVE
+
+DROPPABLE
+
+ELECTIVE
+
+DROPPABLE
+
+ELECTIVE
+
+DROPPABLE
+
+ELECTIVE
+
+DROPPABLE
+
+ELECTIVE
+
+DROPPABLE
+
+ELECTIVE
+
+DROPPABLE
+
+ELECTIVE
+
+DROPPABLE
+
+ELECTIVE
+
+DROPPABLE
+
+ELECTIVE
+
+DROPPABLE
+
+ 2 
+
+PRACTICAL
+
+UES
+
+COMPULSORY
+
+DROPPABLE
+
+ 2 
+
+PRACTICAL
+
+UES
+
+COMPULSORY
+
+DROPPABLE
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 25 
+
+ 40 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 75 
+
+ 100 
+
+ 40 
+
+ 60 
+
+ 100 
+
+ 40 
+
+ 60 
+
+ 100 
+
+ 40 
+
+RESULT TABULATION SHEET
+Result Prepared on: 28/06/2016
+Result Declared on: 01/07/2016
+Page No.: 0002
+
+LEGEND
+
+PAPERID(CREDITS)
+
+Internal
+
+External
+
+TOTAL(GRADE)
+
+A: Absent     C: Cancelled
+D: Detained   RL: Result Later
+
+CS: Credits Secured
+
+AP: Already Passed
+
+CS/Remarks
+
+ 4 
+
+Result of Programme Code: 021     Programme Name: BACHELOR OF EDUCATION     Sem./Year: 01 SEMESTER     Batch: 2015     Examination: RECHECKING REGULAR December, 2015
+
+S.No.
+
+Photo.
+
+Roll no./Name
+
+Institution Code: 149     Institution: MAHARAJA SURAJMAL INSTITUTE
+
+01114902115
+AVANTIKA
+SID: 100000047547
+SchemeID: 100212015001
+
+21103(4)
+
+ 21   42 
+
+63(B+)
+
+ 1 
+
+ 2 
+
+ 3 
+
+ 4 
+
+ 5 
+
+ 6 
+
+ 7 
+
+ 8 
+
+ 9 
+
+ 10 
+
+*Passed with Grace Marks
+
+*SID: Student ID;           SchemeID: The scheme applicable to the student.
+Date on which pdf made: 01/07/2016
+
+RTSID: 2016070102120151490002
+
+
