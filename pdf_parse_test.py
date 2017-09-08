@@ -33,8 +33,9 @@ CREATE TABLE IF NOT EXISTS  ex_scheme (
 def exam(line):
     _idx = [i for i, item in enumerate(line) if re.search('./Year',item) or re.search('SEMESTER',item)]
     try:
+        _l = list()
         for l in _idx:
-            _l = line[l]
+            _l.append(line[l])
         _idx = ''.join(_l)
         #_idx = line[_idx].split()
         sem = int(re.findall(' 0\d ',_idx)[0])
@@ -115,9 +116,9 @@ def exam(line):
         print("commited")
 #function to check data and save it to sql database
 def check_data(dat, n):
-    if not (re.search("^\d{11}",dat[0]) and re.search("^SID: \d{12}",dat[2]) and re.search("^SchemeID: \d{12}",dat[3])): #checks the values of roll no nd ol
+    if not (re.search("^\d{10,11}",dat[0]) and re.search("^SID: \d{12}",dat[2]) and re.search("^SchemeID: \d{12}",dat[3])): #checks the values of roll no nd ol
         return n
-    roll_no = int(re.findall("\d{11}", dat[0])[0])
+    roll_no = int(re.findall("\d{10,11}", dat[0])[0])
     name = dat[1]
     #sid = int(re.findall("\d+", dat[2])[0])
     #scheme_id = int(re.findall("\d+", dat[3])[0])
@@ -144,7 +145,7 @@ def check_data(dat, n):
         cur.execute('''REPLACE INTO ''' + '"' + str(roll_no) + '"' +''' (sub, internal, external) VALUES (?, ?, ?)''',(int(key),subs[key][0],subs[key][1]))
         conn.commit()
 for files in os.listdir('./res_pdf'):
-    global pdfpath 
+    global pdfpath
     pdfpath= os.path.join('res_pdf', files)
     pdfres = PyPDF2.PdfFileReader(open(pdfpath, 'rb'))
     pg = pdfres.getNumPages()
@@ -175,7 +176,7 @@ for files in os.listdir('./res_pdf'):
         #finding positions of roll no
         stud = list()
         for l in line:
-            roll_idx = [i for i, item in enumerate(line) if re.search('^\d{11}', item)]
+            roll_idx = [i for i, item in enumerate(line) if re.search('^\d{10,11}', item)]
         #dividing student data
         a = 0
         b = 1
