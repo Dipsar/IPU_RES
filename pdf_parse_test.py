@@ -5,6 +5,8 @@ import os
 
 
 errors = open('error.txt', 'w')
+
+statusr = open('status.txt', 'r')
 conn = sqlite3.connect('student_dat_test.sqlite')
 cur = conn.cursor()
 
@@ -49,14 +51,14 @@ def exam(line):
     except:
         errors.write(pdfpath + ':' + str(j) + '\n' + 'Formatting wrong\n')
         return 0
-    sr_idx = [i for i, item in enumerate(line) if re.search('^\d{2}$', item)]
-    i = 0
-    for k in sr_idx:
-        try:
-            del line[k-i]
-        except:
-            pass
-        i = i + 1
+ #   sr_idx = [i for i, item in enumerate(line) if re.search('^\d{2}$', item)]
+ #   i = 0
+ #   for k in sr_idx:
+ #       try:
+ #           del line[k-i]
+ #       except:
+ #           pass
+ #       i = i + 1
 
     for l in line:
         sub_idx = [i for i, item in enumerate(line) if re.search('^\d{5,7}$', item)]
@@ -75,39 +77,49 @@ def exam(line):
 
     for s in sub:
         #print(s)
+        w_c = 0
+        for s_s in s:
+            if re.search('[A-z]+', s_s):
+               w_c = w_c + 1
+        if (w_c == 6 and len(s) > 12) or (len(s) > w_c  + 6):
+            del s[-1]
+        #cre_idx = [i for i, item in enumerate(s) if re.search('^ *\d{1,2} *$', item)]    
         try:
             paper_id = int(s[0])
         except:
             errors.write(pdfpath+':'+str(j)+'\n'+s[0])
             continue
         code = s[1]
-        subject = s[2]
+        subject = ''.join(s[2:-9])
         try:
-            credit = int(s[3])
+            credit = int(s[-9])
         except:
-            errors.write(pdfpath+':'+str(j)+'\n'+s[3])
-            continue
-        type_ = s[4]
-        if s[8] != '--':
             try:
-                minor = int(s[8])
+                credit = float(s[-9])    
             except:
-                errors.write(pdfpath+':'+str(j)+'\n'+s[8]+':minor')
+                errors.write(pdfpath+':'+str(j)+'\n'+s[-9])
+                continue
+        type_ = s[-8]
+        if s[-4] != '--':
+            try:
+                minor = int(s[-4])
+            except:
+                errors.write(pdfpath+':'+str(j)+'\n'+s[-4]+':minor')
                 continue
         else:
             minor = None
-        if s[9] != '--':
+        if s[-3] != '--':
             try:
-                major = int(s[9])
+                major = int(s[-3])
             except:
-                errors.write(pdfpath+':'+str(j)+'\n'+s[9]+':major')
+                errors.write(pdfpath+':'+str(j)+'\n'+s[-3]+':major')
                 continue
         else:
             major = None
         try:
-            pass_m = int(s[11])
+            pass_m = int(s[-1])
         except:
-            errors.write(pdfpath+':'+str(j)+'\n'+s[11]+':pass_m')
+            errors.write(pdfpath+':'+str(j)+'\n'+s[-1]+':pass_m')
             continue
 
         #print(paper_id, code, subject, credit, type_, minor, major, pass_m, sem)
@@ -116,9 +128,9 @@ def exam(line):
         print("commited")
 #function to check data and save it to sql database
 def check_data(dat, n):
-    if not (re.search("^\d{10,11}",dat[0]) and re.search("^SID: \d{12}",dat[2]) and re.search("^SchemeID: \d{12}",dat[3])): #checks the values of roll no nd ol
+    if not (re.search("^\d{11}",dat[0]) and re.search("^SID: \d{12}",dat[2]) and re.search("^SchemeID: \d{12}",dat[3])): #checks the values of roll no nd ol
         return n
-    roll_no = int(re.findall("\d{10,11}", dat[0])[0])
+    roll_no = int(re.findall("\d{11}", dat[0])[0])
     name = dat[1]
     #sid = int(re.findall("\d+", dat[2])[0])
     #scheme_id = int(re.findall("\d+", dat[3])[0])
@@ -144,16 +156,24 @@ def check_data(dat, n):
         )''')
         cur.execute('''REPLACE INTO ''' + '"' + str(roll_no) + '"' +''' (sub, internal, external) VALUES (?, ?, ?)''',(int(key),subs[key][0],subs[key][1]))
         conn.commit()
+slist = list()
+for sl in statusr:
+    slist.append(sl)
+
 for files in os.listdir('./res_pdf'):
-    global pdfpath
+    
+    global pdfpath 
     pdfpath= os.path.join('res_pdf', files)
+    
+    if (pdfpath + '\n') in slist: continue
+
     pdfres = PyPDF2.PdfFileReader(open(pdfpath, 'rb'))
     pg = pdfres.getNumPages()
     global    j
     j = 0
     count = 0
     while j < pg:
-
+        print('PDF NAME', pdfpath, j)
         try:
             res = pdfres.getPage(j)
         except:
@@ -176,7 +196,7 @@ for files in os.listdir('./res_pdf'):
         #finding positions of roll no
         stud = list()
         for l in line:
-            roll_idx = [i for i, item in enumerate(line) if re.search('^\d{10,11}', item)]
+            roll_idx = [i for i, item in enumerate(line) if re.search('^\d{11}', item)]
         #dividing student data
         a = 0
         b = 1
@@ -195,4 +215,7 @@ for files in os.listdir('./res_pdf'):
             err = check_data(s,count)
             count = count + 1
     #print (len(stud[0]),count)
+    statusw = open('status.txt', 'a')
+    statusw.write(pdfpath+'\n')
+    statusw.close()
 errors.close()
