@@ -1,0 +1,1853 @@
+./
+VC.php
+Contact_Us.php
+./
+javascript:void(0)
+javascript:void(0)
+
+VC.php
+#
+schools.php
+#
+cof.php
+#
+directors.php
+admin_officers.php
+
+aboutuni.php
+careers.php
+industry_linkage.php
+dsw.php
+library.php
+alumni_usbt.php
+https://www.google.co.in/maps/uv?hl=en&pb=!1s0x390cfd08624613cd:0x75b127f70af28c04!2m5!2m2!1i80!2i80!3m1!2i100!3m1!7e1!4shttps://plus.google.com/100832009601746995344/photos?hl%3Den%26socfid%3Dweb:lu:kp:placepageimage%26socpid%3D1!5sipu+campus+-+Google+Search&sa=X&ei=Ky01Vfb2E-j8ywO3ioHwAg&ved=0CIgBEKIqMA0
+javascript:void(0)
+
+all_programmes.php
+schools.php
+centres.php
+affiliated_colleges.php
+
+acadaff.php
+syll.php
+intaff.php
+rnc.php
+javascript:void(0)
+
+exam_notices.php
+exam_datesheet.php
+exam_results.php
+exam_regulation_form.php
+javascript:void(0)
+
+accounts.php
+acadcoor.php
+statutory_notices.php
+affiliation_branch.php
+employee_login.php
+/proctor.php
+estate.php
+genadmin.php
+personnel_branch.php
+planning_branch.php
+tenders.php
+university_work_division.php
+javascript:void(0)
+
+stu_zone.php
+hostels.php
+
+sports.php
+stu_zone.php
+srijan.php
+javascript:void(0)
+
+/careers.php
+http://ipu.ac.in/connectuss
+seminars.php
+career_plcmnt.php
+
+notices.php
+rti.php
+tenders.php
+http://164.100.158.135/ExamResults/ExamResultsmain.htm
+/public/ExamResults/2016/300716/REGULAR RESULT OF BCOM (H) 2015 BATCH E T EXAM MAY 2016.pdf
+/public/ExamResults/2016/300716/REGULAR RESULT OF BBA (G) 2015 BATCH E T EXAM MAY-JUNE 2016.pdf
+/public/ExamResults/2016/300716/REGULAR RESULT OF BBA (CAM) 2015 BATCH E T EXAM MAY -JUNE 2016.pdf
+/public/ExamResults/2016/300716/REGULAR RESULT OF BBA (B&I) 2015 BATCH E T EXAM MAY-JUNE 2016.pdf
+/public/ExamResults/2016/300716/REGULAR & REAPPEAR RESULT OF BCOM (H) ALL SEMESTER E T EXAM MAY 2016.pdf
+/public/ExamResults/2016/300716/REGULAR & REAPPEAR RESULT OF BBA TTM E T EXAM MAY 2016.pdf
+/public/ExamResults/2016/300716/REGULAR & REAPPEAR RESULT OF BBA (MOM) E T EXAM MAY 2016.pdf
+/public/ExamResults/2016/300716/REGULAR & REAPPEAR RESULT OF BBA (G) E T EXAM MAY 2016.pdf
+/public/ExamResults/2016/300716/REGULAR & REAPPEAR RESULT OF BBA (CAM) E T EXAM MAY 2016.pdf
+/public/ExamResults/2016/300716/REGULAR & REAPPEAR RESULT OF BBA (B&I) E T EXAM MAY 2016.pdf
+/public/ExamResults/2016/300716/Batch upto 2014_BJMC_DECLARED RESULT_MJ2016.pdf
+/public/ExamResults/2016/300716/Batch upto 2014_BHMCT_DECLARED_MJ2016.pdf
+/public/ExamResults/2016/300716/Batch 2015_BJMC_DECLARED RESULT_MJ2016.pdf
+/public/ExamResults/2016/300716/Batch 2015_BHMCT_DECLARED_MJ2016.pdf
+/public/ExamResults/2016/300716/247_M.SC.(NRM)_2015_Batch_DECLARED RESULT_MJ16.pdf
+/public/ExamResults/2016/300716/123_B.Ed. Special Education (LD)_2015_Batch_DECLARED RESULT_MJ16.pdf
+/public/ExamResults/2016/300716/122_B.Ed.Special Education (HI)_2015_Batch_DECLARED RESULT_MJ16.pdf
+/public/ExamResults/2016/300716/121_B.Ed. Special Education (MR)_2015_Batch_DECLARED RESULT_MJ16.pdf
+/public/ExamResults/2016/300716/089_MCPHM_Upto 2014_Batch_DECLARED RESULT_MJ16.pdf
+/public/ExamResults/2016/300716/089_MCPHM_2015_Batch_DECLARED RESULT_MJ16.pdf
+/public/ExamResults/2016/300716/088_MAHM_upto_2014_Batch_DECLARED RESULT_MJ16.pdf
+/public/ExamResults/2016/300716/088_MAHM_2015_Batch_DECLARED RESULT_MJ16.pdf
+/public/ExamResults/2016/300716/059_M.SC.(FS)_upto_2014_Batch_DECLARED RESULT_MJ16.pdf
+/public/ExamResults/2016/300716/059_M.SC.(FS)_2015_Batch_DECLARED RESULT_MJ16.pdf
+/public/ExamResults/2016/300716/058_M.A.(CRIM)_M.Sc.(CRIM)_upto_2014_Batch_DECLARED RESULT_MJ16.pdf
+/public/ExamResults/2016/300716/058_M.A.(CRIM)_2015_Batch_DECLARED RESULT_MJ16.pdf
+/public/ExamResults/2016/300716/047_M.SC.(EM)_2015_Batch_DECLARED RESULT_MJ16.pdf
+/public/ExamResults/2016/300716/033_PGDPR_2015_Batch_DECLARED RESULT_MJ16.pdf
+/public/ExamResults/2016/300716/021_B.Ed._upto_2014_DECLARED RESULT_MJ16.pdf
+/public/ExamResults/2016/300716/021_B.Ed._2015_Batch_DECLARED RESULT_MJ16.pdf
+/public/ExamResults/2016/300716/003_M.SC.(B&C)_2015_Batch_DECLARED RESULT_MJ16.pdf
+/public/ExamResults/2016/300716/001_M.Ed._2015 Batch_DECLARED RESULT_MJ16.pdf
+/public/ExamResults/2016/280716/REVISED RESULT OF BBA (G) E T EXAM FEB 2016 (SHWETA BISHT 04213401710).pdf
+/public/ExamResults/2016/280716/REVISED RESULT OF BBA (G) E T EXAM  DEC 2015 (ALAEW ANDEBOW YVES 12214201713).pdf
+/public/ExamResults/2016/280716/RECHECKING RESULT OF BCOM (H) E T EXAM DECEMBER 2015.pdf
+/public/ExamResults/2016/280716/RECHECKING RESULT OF BBA (G) E T EXAM DECEMBER 2015.pdf
+/public/ExamResults/2016/280716/RECHECKING RESULT OF BBA (CAM) E T EXAM DECEMBER 2015.pdf
+/public/ExamResults/2016/280716/RECHECKING RESULT OF BBA (B&I) E T EXAM DECEMBER 2015.pdf
+/public/ExamResults/2016/280716/NO CHANGE RESULT OF BBA (ALL) & BCOM (H) E T EXAM DECEMBER 2015.pdf
+/public/ExamResults/2016/280716/B.TECH_CT_14_FINAL_RESULT_MJ16.pdf
+/public/ExamResults/2016/220716/Withheld reslult of MCA 1st Sem._Dec15.pdf
+/public/ExamResults/2016/220716/Revised Result_02816507014_LLM_Dec2015.pdf
+/public/ExamResults/2016/210716/M.tech(ITW)_6th_final sem_mj2016.pdf
+/public/ExamResults/2016/210716/m.TECH(itr)_53_final_result_MJ2016.pdf
+/public/ExamResults/2016/210716/M.Tech(ECEw)_6th_sem_final_result_mj16.pdf
+/public/ExamResults/2016/210716/m.TECH(ece_dd)228_final_result_mj16.pdf
+/public/ExamResults/2016/210716/M.Tech(CSEw)_6th_sem 248_final_result_mj16.pdf
+/public/ExamResults/2016/210716/M. Tech (ECE) Regular 142_6 usit students_final_result_MJ2016.pdf
+/public/ExamResults/2016/210716/M. Tech (CSE) Regular_usit_6 students final result_mj16.pdf
+http://ipu.ac.in/public/ExamResults/2016/140716/8th Sem_128_B.Tech.(ECE)_USS_Final Result_MJ2016.pdf
+http://ipu.ac.in/public/ExamResults/2016/140716/8th Sem_32_B.Tech.(CSE)_USS_Final Result_MJ2016.pdf
+http://ipu.ac.in/public/ExamResults/2016/140716/8th Sem_15_B.Tech.(IT)_USS_Final Result_MJ2016.pdf
+/public/ExamResults/2016/140716/Revision of Result Mr. Abhijeet Kumar (E.No.00959035513) Exam Held in April 2016.pdf
+/public/ExamResults/2016/140716/Recheking Result of MD-MS Programme Exam Held in April 2016.pdf
+/public/ExamResults/2016/130716/usit_few students_53_final_result_MJ2016.pdf
+/public/ExamResults/2016/130716/Result of 06621503515_03321503515_08651103815_2015_BBALLB_BALLB_Final Result_Dec2015.pdf
+/public/ExamResults/2016/130716/B.Sc. (MLT) Result Exam held in May- June 2016.pdf
+/public/ExamResults/2016/130716/B.Sc. (MLT) 2015 Batch Regular Result Exam held in May- June 2016.pdf
+/public/ExamResults/2016/130716/232_final_result_mj16.pdf
+/public/ExamResults/2016/130716/215_final_result_mj16.pdf
+/public/ExamResults/2016/130716/142_usit students_final_result_MJ2016.pdf
+/public/ExamResults/2016/130716/48_usit_5 students final result_mj16.pdf
+/public/ExamResults/2016/130716/10th Sem_35_38_LLB_Final Result_MJ2016.pdf
+/public/ExamResults/2016/080716/Revised Result_Jyoti Jha_Enrol. No.35625503515_Batch 2015_35_38_LLB_Final Result_Dec2015.pdf
+/public/ExamResults/2016/080716/Revised Result_Batch Upto 2014_35_38_LLB_Final Result_Dec2015.pdf
+/public/ExamResults/2016/080716/Rechecking_Change_Batch2015_BALLB_BBALLB_Final Result_Dec2015.pdf
+/public/ExamResults/2016/080716/Rechecking_Change_Batch Upto 2014_35_38_LLB_Final Result_Dec2015.pdf
+/public/ExamResults/2016/080716/No Change_Batch Upto 2014 Batch_3rd_5th_7th_9th Sem._Rechecking Result_BALLB_BBALLB_ETC Dec.2015.pdf
+/public/ExamResults/2016/080716/No Change_2015_1st Sem._Rechecking Result_BALLB_BBALLB_ETC Dec.2015.pdf
+/public/ExamResults/2016/080716/06121503514_Naman Aggarwal_Reappear_1st Sem._35_LLB_Final Result_Dec2015.pdf
+/public/ExamResults/2016/080716/06121503514_Naman Aggarwal_3rd Sem. & 29010303812_Shivansh Gupta_LLB_Final Result_Dec2015.pdf
+/public/ExamResults/2016/060716/B.Pharma Result Exam Held in May, 2016.pdf
+/public/ExamResults/2016/060716/upto Batch 2014_NO CHANGE_BJMC_RECHECKING RESULT OF 3RD AND 5TH SEM. DEC.2015.pdf
+/public/ExamResults/2016/060716/upto 2014_BJMC_Rechecking 3rd_5th_Final_Dec.2015.pdf
+/public/ExamResults/2016/060716/Revised Result BJMC 3RD_5TH_final_DEC15.pdf
+/public/ExamResults/2016/060716/2015 Batch_NO CHANGE_BJMC_RECHECKING RESULT OF 1ST SEMEMSTER_DEC.2015.pdf
+/public/ExamResults/2016/060716/2015 Batch_BJMC_24_Rechecking__1st Sem._DEC15.pdf
+/public/ExamResults/2016/060716/144_MCA(DD)_(UPTO_2014_BATCH)_RECHECKING RESULT_DEC.2015_RESULT_WITH_NO_CHANGE.pdf
+/public/ExamResults/2016/060716/045_MCA(SE)_(UPTO_2014_BATCH)_RECHECKING RESULT_DEC.2015_RESULT_WITH_NO_CHANGE.pdf
+/public/ExamResults/2016/060716/044_MCA_(UPTO_2014_BATCH)_REVISED_RESULT_DEC.2015.pdf
+/public/ExamResults/2016/060716/044_MCA_(UPTO_2014_BATCH)_RECHECKING RESULT_DEC.2015_RESULT_WITH_NO_CHANGE.pdf
+/public/ExamResults/2016/060716/044_MCA_(UPTO_2014_BATCH)_RECHECKING RESULT_DEC.2015_RESULT_WITH_CHANGE.pdf
+/public/ExamResults/2016/060716/044_MCA_(2015_BATCH)_RECHECKING RESULT_DEC.2015_RESULT_WITH_NO_CHANGE.pdf
+/public/ExamResults/2016/060716/044_MCA_(2015_BATCH)_RECHECKING RESULT_DEC.2015_RESULT_WITH_CHANGE.pdf
+/public/ExamResults/2016/060716/020_BCA_(UPTO_2014_BATCH)_RECHECKING RESULT_DEC.2015_RESULT_WITH_NO_CHANGE.pdf
+/public/ExamResults/2016/060716/020_BCA_(UPTO_2014_BATCH)_RECHECKING RESULT_DEC.2015_RESULT_WITH_CHANGE.pdf
+/public/ExamResults/2016/060716/020_BCA_(2015_BATCH)_RECHECKING RESULT_DEC.2015_RESULT_WITH_NO_CHANGE.pdf
+/public/ExamResults/2016/060716/020_BCA_(2015_BATCH)_RECHECKING RESULT_DEC.2015_RESULT_WITH_CHANGE.pdf
+/public/ExamResults/2016/050716/740_MJMC_Result_Jan._2016 (Enrol. no. 01220374013).pdf
+/public/ExamResults/2016/050716/740_MJMC_Rechecking Result_Jan.2016_with No Change.pdf
+/public/ExamResults/2016/050716/140_MMC_Rechecking Result_Dec.2015_with No Change.pdf
+/public/ExamResults/2016/050716/059_M.Sc.(FS)_2015_Batch_Result_Dec.15.pdf
+/public/ExamResults/2016/050716/058_M.A. (CRIM)_2015_Batch_Result_Dec.15.pdf
+/public/ExamResults/2016/050716/53_final_result_CDAC_4th sem_mj16.pdf
+/public/ExamResults/2016/050716/52_vlsi_FINAL_ RESULT_CDAC_result_mj16.pdf
+/public/ExamResults/2016/050716/48_Final_result_CDAC_4th sem_mj16.pdf
+/public/ExamResults/2016/050716/021_B.Ed._Result_Dec.2015 (Enrol. no.03917402115).pdf
+/public/ExamResults/2016/050716/021_B.Ed._Rechecking_Result_Dec2015_with_change.pdf
+/public/ExamResults/2016/050716/021_B.Ed._Rechecking Result_Dec.2015_with No Change.pdf
+/public/ExamResults/2016/300616/shilpi jain_53_final_result_MJ2016.pdf
+/public/ExamResults/2016/300616/142_3 students_final_result_MJ2016.pdf
+/admission2016/adm2016notices/results/maeng2.pdf
+/admission2016/adm2016notices/results/maeng.pdf
+/public/ExamResults/2016/150616/RECHECKING_rti final result_SAHIL_VISHAL.pdf
+/public/ExamResults/2016/150616/RECHECKING_PRATEEK_final_RESULT_.pdf
+/public/ExamResults/2016/150616/RECHECKING_final_NITISH CHAUDHARY.pdf
+/public/ExamResults/2016/150616/6th_sem_M. Tech ECE  W final _result_mj16.pdf
+/public/ExamResults/2016/150616/6th_sem  M. Tech CSE W248_final_result_mj16.pdf
+http://ipu.ac.in/public/ExamDatesheets/2016/130616/Mercy_All_B.Tech._Final Result_Dec2015.pdf
+/public/ExamResults/2016/090616/resrtirech090616.pdf
+/public/ExamResults/2016/060616/MERCY RESULT OF BBA (ALL) E T EXAM DECEMBER 2015.pdf
+/public/ExamResults/2016/030616/REVISEd_puja rai BATCH_final_RESULT_DEC15.pdf
+/public/ExamResults/2016/030616/revised_final_udit gera_code_99151.pdf
+/public/ExamResults/2016/030616/revised_final_sahil result_2015_004.pdf
+/public/ExamResults/2016/030616/revised_final_sahil & siddharth result_2015_004.pdf
+/public/ExamResults/2016/030616/revised_final_result_of_manan_rakesh_dec15.pdf
+/public/ExamResults/2016/030616/revised_final_result_of_128_dec15.pdf
+/public/ExamResults/2016/030616/revised_final_of sonam and rama_13_dec15.pdf
+/public/ExamResults/2016/030616/revised_final result_dinesh_013_upto 2014 batch.pdf
+/public/ExamResults/2016/030616/revised_draft_udit gera.pdf
+/public/ExamResults/2016/030616/revised_amandeep and upma 006_final_result 2014_batch.pdf
+/public/ExamResults/2016/010616/MBA(DM)_RESULT_Jan2016.pdf
+/public/ExamResults/2016/310516/Revised Result_MBA_Dec 15 (Kuldeep & Vikas).pdf
+/public/ExamResults/2016/310516/Revised Result_ MBA_Dec 15 (Reena & Shweta).pdf
+/public/ExamResults/2016/300516/REVISED RESULT OF BBA CAM E T EXAM DEC 2015 (SHIVANI GUPTA 30421501914).pdf
+/public/ExamResults/2016/300516/REVISED RESULT BBA G E T EXAM DEC 2015 (MR CHANDEL 00521701711).pdf
+/public/ExamResults/2016/300516/PENDING RESULT OF BCOM)H) E T EXAM  DEC 2015 (02090188815 AND 00790388815).pdf
+/public/ExamResults/2016/300516/PENDING RESULT OF BBA G E T EXAM DEC 2015 (MR KOSHLENDER SINGH 02721401715).pdf
+/public/ExamNotices/2016/270516/Revision of Result MD-MS Programme Exam Held in March 2016.pdf
+/public/ExamResults/2016/230516/REVISEd_PRACHIKA BATCH_final_RESULT_DEC15.pdf
+/public/ExamResults/2016/230516/REVISED_HIMANSHI 213_2014_BATCH_final_DEC15.pdf
+/public/ExamResults/2016/230516/REVISED_ASHIMA_ABHISHEK 142_2015_BATCH_final_DEC15.pdf
+http://ipu.ac.in/public/ExamResults/2016/230516/Mercy_15_B.Tech.(IT)_Final Result_MJ2016.pdf
+/public/ExamResults/2016/230516/088_MAHM_2015_Batch_Result_of_01240908815 and 01740908815.pdf
+/public/ExamResults/2016/200516/Revised%20Result%20of%20MCA%20programme_Batch_2015_uploaded%20on%2019.05.2016.pdf
+/public/ExamResults/2016/190516/Recheking Result of Ms. Amita Kumar (E.No. 01372559013) MBBS 2nd Prof. (Supplementary) Exam Held in March 2016.pdf
+/public/ExamResults/2016/190516/044_MCA_2015_Batch_Result_Dec_15.pdf
+/public/ExamResults/2016/190516/044_MCA_upto_2014_Batch_Result_Dec_15
+/public/ExamResults/2016/190516/020_BCA_upto_2014_Batch_Result_Dec_15.pdf
+/public/ExamResults/2016/190516/020_BCA_2015_Batch_Result_Dec_15.pdf
+/public/ExamResults/2016/180516/Vipul Yadav_Mercy Result_MBA(CM)_Feb.2016.pdf
+/public/ExamResults/2016/180516/Praveen Kumar_Mercy Result_MBA(RE)_Feb. 2016.pdf
+/public/ExamResults/2016/180516/Nitin Kumar_Mercy Result_MBA(W)_Feb. 2016.pdf
+/public/ExamResults/2016/180516/MD-MS and DCH Result Exam Held in April 2016.pdf
+/public/ExamNotices/2016/160516/Recheking Result of Ms. Chhavi Mishra (E.No. 02812602314) BHMS Programme Exam Held in January 2016.pdf
+/public/ExamResults/2016/130516/301_BCA(INDUSTRY SPECIFIC)_Mercy_Final Result_February_2016.pdf
+/public/ExamResults/2016/130516/020_BCA_Mercy_Final Result_February_2016.pdf
+/public/ExamResults/2016/120516/bhms.pdf
+/public/ExamResults/2016/120516/021_B.Ed._Final Result_Shivpriya (02720502115)_Sonali Dalal (07115802115)_Dec_2015.pdf
+/public/ExamResults/2016/060516/PALLAVI MOHANANI_08911002215_BHMCT_Dec.2015.pdf
+/public/ExamResults/2016/060516/045_MCA(SE)_2015_Batch_Withheld_RESULT_DEC_2015.pdf
+/public/ExamResults/2016/060516/016_B.Arch._Revised__SUPPLEMENTARY_RESULT_AUG_SEP_2015.pdf
+/public/ExamResults/2016/050516/Mercy_38_LLB_Final Result_Feb.2016.pdf
+/public/ExamResults/2016/050516/Mercy_24_BJMC_Final Result_Feb.2016.pdf
+/public/ExamResults/2016/050516/Mercy_22_BHMCT_Final Result_Feb.2016.pdf
+/public/ExamResults/2016/010516/740_MJMC_upto_2014_Batch_Final_Result_Dec._2015.pdf
+/public/ExamResults/2016/010516/740_MJMC_Trimester_Final_Result_Dec.2015.pdf
+/public/ExamResults/2016/010516/740_MJMC_2015_Batch_Final_Result_Dec._2015.pdf
+/public/ExamResults/2016/290416/Upto 2014_70_LLM_FINAL RESULT_Dec2015.pdf
+/public/ExamResults/2016/290416/2015_70_LLM_Final Result_Dec2015.pdf
+/public/ExamResults/2016/290416/170_LLM(W)_Final Declared Result_Dec.2015.pdf
+http://ipu.ac.in/public/ExamResults/2016/270416/B.Tech(ECE) IIIrd, Vth & VIIth Sem. FINAL_RESULTDec._2015_UPTO 2014 BATCH.pdf
+/public/ExamResults/2016/270416/B. Tech (ECE) Ist Sem. Dec-2015 result_2015 Batch.pdf
+/public/ExamResults/2016/270416/MPH (FE) Result (2015) Batch Exam held in December 2015.pdf
+/public/ExamResults/2016/270416/MPH (FE) Result (2014) Batch Exam held in December 2015.pdf
+/public/ExamResults/2016/270416/B.Sc. (Yoga Science) Result Exam Held in December 2015.pdf
+/public/ExamResults/2016/270416/B.Sc. (Yoga Science) (2015) Batch Exam Held in December 2015.pdf
+/public/ExamResults/2016/260416/btechuss/2015/B. Tech (IT) Ist Sem. Dec-2015  result_2015_15.pdf
+/public/ExamResults/2016/260416/btechuss/2015/B. Tech (CSE) Ist Sem. Dec-2015 result_2015_32.pdf
+/public/ExamResults/2016/260416/btechuss/2015/B. Tech (CE) Ist Sem. Dec.-2015 result_2015_14.pdf
+/public/ExamResults/2016/260416/btechuss/2015/B. Tech (BT) Ist semester Dec- 2015 result_2015_13.pdf
+/public/ExamResults/2016/260416/btechuss/2015/B. Tech (BCE) Ist semester Dec-2015 result_2015_004.pdf
+http://ipu.ac.in/public/ExamResults/2016/260416/btechuss/2014/B.Tech(BCE) IIIrd, Vth & VIIth regular and reappear Dec-2015 result_004_upto 2014 batch.pdf
+/public/ExamResults/2016/260416/btechuss/2014/B. Tech(CE) IIIrd, Vth & Vth Semester Regular & reappear  result Dec-2015 Exam_upto 2014 batch.pdf
+/public/ExamResults/2016/260416/btechuss/2014/B. Tech (IT) IIIrd, Vth & VIIth Regular & Reappear result Dec-2015 Exam_upto 2014 batch.pdf
+/public/ExamResults/2016/260416/btechuss/2014/B. Tech (CSE) IIIrd, Vth & VIIth Sem. Regular & Reappear result_Dec-2015 Exam_upto 2014 batch.pdf
+/public/ExamResults/2016/260416/btechuss/2014/B. Tech (BT) IIIrd, Vth & Vth regular and Reappear  result Dec-2015_013_upto 2014 batch.pdf
+/public/ExamResults/2016/260416/48_final_2014_batch_dec2015.pdf
+/public/ExamResults/2016/260416/123_B.ED.(LD)_DECLARE_RESULT_DEC.2015.pdf
+/public/ExamResults/2016/260416/122_B.ED.(HI)_DECLARE_RESULT_DEC.2015.pdf
+/public/ExamResults/2016/260416/121_B.ED.(MR)_upto_2014_Batch_DECLARE_RESULT_DEC.2015.pdf
+/public/ExamResults/2016/260416/121_B.ED.(MR)_2015_Batch_DECLARE_RESULT_DEC.2015.pdf
+/public/ExamResults/2016/240416/mtech/PGDRP 2015_397_FINAL_result_dec15.pdf
+/public/ExamResults/2016/240416/mtech/PGDRP 2014_397_FINAL_result_dec15.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(VLSI) 2014_52_FINAL_result-dec2015.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(VLSI) 52_2015_FINAL_dec15.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(TE) 186_2015_BATCH_FINAL_DEC15.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(TE) 186_2014_BATCH_FINAL_DEC15.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(SP)005_FINAL_result 2015_batch.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(SP) 005_FINAL_result upto 2014_batch.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(RF &M) 006_final_result upto2014_batch.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(RA) 187_2015_BATCH_FINAL_DEC15.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(ITW) 65_FINAL_result_dec_15_23_04_2016.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(ITR) 2015_53_FINAL_result-dec2015.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(ITR) 2014_53_FINAL_result-dec2015.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(IT) DD 215_FINAL-RESULT-DEC15_2014_BATCH.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(IS) 008_FINAL_result 2015_batch.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(FPT) 149_2015_BATCH_FINAL_DEC15.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(FPT) 149_2014_BATCH_FINAL_DEC15_23_04_2016.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(EP) 97_FINAL_result-2015_batch_dec15_23_04_2016.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(EP) 97_FINAL_result_2014_batch_dec15.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(ECE)W 42_FINAL_result_dec_15.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(ECE)DD 228_2014_BATCH_FINAL_DEC15.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(ECE) R 142_2014_BATCH_FINAL_DEC15_23_04_2016.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(ECE) DD 228_2015_BATCH_FINAL_DEC15.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(ECE) 142_2015_BATCH_FINAL_DEC15.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(CSE)W 248_FINAL_result_dec_15_23_04_2016.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(CSE)R 48_final_2014_batch_dec2015.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(CSE) R 48_FINAL_2015_batch_dec2015.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(CSE) DD 232_2015_BATCH_FINAL_DEC15.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(CSE) DD 232_2014_BATCH_FINAL_DEC15.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(CE) 95_2015_batch_FINAL_result_dec15.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(CE) 95_2014_batch_FINAL_result_dec15.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(BT)DD 213_2014_BATCH_FINAL_DEC15.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech(BT)DD 213_ DEC _2015 BATCH.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech( RF &M) 006_FINALresult 2015_batch.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech( DC) 007_FINAL_result 2015_batch.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech (NANO) 2014_10_FINAL_RESULT_DEC15.pdf
+/public/ExamResults/2016/240416/mtech/M.Tech (IS) 008_FINAL_result  upto 2014_batch.pdf
+/public/ExamResults/2016/240416/mtech/M. Tech (NANO) 2015_10_FINAL_RESULT_DEC15.pdf
+/public/ExamResults/2016/240416/mtech/M. Tech (DC) 007_FINAL_result upto 2014_batch.pdf
+/public/ExamResults/2016/220416/021_.Ed._utp_2014_Batch_Final Result_Dec.2015.pdf
+/public/ExamResults/2016/220416/021_.Ed._2015_Batch_Final Result_Dec.2015.pdf
+/public/ExamResults/2016/220416/MBBS 2nd Prof. (2013) Batch Supplementary Exam Held in March 2016.pdf
+/public/ExamResults/2016/220416/MBBS 2nd Prof. (2012) Batch Supplementary Exam Held in March 2016.pdf
+/public/ExamResults/2016/220416/MBBS 2nd Prof. (2011) Batch Supplementary Exam Held in March 2016.pdf
+/public/ExamResults/2016/220416/MBBS 2nd Prof. (2010) Batch Supplementary Exam Held in March 2016.pdf
+/public/ExamResults/2016/220416/MBBS 2nd Prof. (2009) Batch Supplementary Exam Held in March 2016.pdf
+/public/ExamResults/2016/220416/MBBS 2nd Prof. (2008) Batch Supplementary Exam Held in March 2016.pdf
+/public/ExamResults/2016/220416/MBBS 2nd Prof. (2006) Batch Supplementary Exam Held in March 2016.pdf
+/public/ExamResults/2016/220416/REST_45_MCA(SE)_DECLARE_RESULT_DEC2015_16045122015.pdf
+/public/ExamResults/2016/220416/2015_45_MCA(SE)_DECLARE RESULT_DEC2015_16045122015.pdf
+/public/ExamResults/2016/220416/2015_33_PGDPR_DECLARE_RESULT_DEC2015.pdf
+/public/ExamResults/2016/220416/2015_35_38_LLB_Final Result_Dec2015.pdf
+/public/ExamResults/2016/210416/Upto 2014_35_38_LLB_Final Result_Dec2015.pdf
+/public/ExamResults/2016/210416/144_MCA(DD)_upto_2014_Batch_Final_Result_Dec_2015.pdf
+/public/ExamResults/2016/210416/144_MCA(DD)_2015_Batch_Final_Result_Dec_2015.pdf
+/public/ExamResults/2016/210416/089_MCPHM_upto_2014_Batch_Final_Result_Dec.2015.pdf
+/public/ExamResults/2016/210416/089_MCPHM_2015_Batch_Final_Result_Dec.2015.pdf
+/public/ExamResults/2016/210416/059_M.Sc.(FS)_upto_2014_Batch_Final_Result_Dec_2015.pdf
+/public/ExamResults/2016/210416/059_M.Sc.(FS)_2015_Batch_Final_Result_Dec_2015.pdf
+/public/ExamResults/2016/210416/058_M.Sc.(CRIM)_upto_2014_Batch_Final_Result_DEC_2015.pdf
+/public/ExamResults/2016/210416/058_M.A.(CRIM)_2015_Batch_Final_Result_DEC_2015.pdf
+/public/ExamResults/2016/210416/044_MCA (LE)_Final_Result_Dec_2015.pdf
+/public/ExamResults/2016/200416/247_MSC(NRM)_upto_2014_Batch_Final_Result_De.2015.pdf
+/public/ExamResults/2016/200416/247_MSC(NRM)_2015_Batch_Final_Result_Dec.2015.pdf
+/public/ExamResults/2016/200416/140_MMC_upto_2014_Batch_Final_Result_Dec.2015.pdf
+/public/ExamResults/2016/200416/140_MMC_2015_Batch_Final_Result_Dec.2015.pdf
+/public/ExamResults/2016/200416/047_MSC(EM)_upto 2014_Batch_Final Result_Dec.2015.pdf
+/public/ExamResults/2016/200416/047_MSC(EM)_2015_Batch_Final Result_Dec.2015.pdf
+/public/ExamResults/2016/200416/003_M.Sc.(B&C)_uto 2014 Batch Final Result Dec.2015.pdf
+/public/ExamResults/2016/200416/003_M.Sc.(B&C)_2015 Batch Final Result Dec.2015.pdf
+/public/ExamResults/2016/200416/001_MED_Final_Result_Dec.2015.pdf
+/public/ExamResults/2016/180416/UPTO_22_BHMCT_FINAL DECLARED RESULT_Dec15.pdf
+/public/ExamResults/2016/180416/2015_22_BHMCT_FINAL DECLARED RESULT_DEC15.pdf
+/public/ExamResults/2016/130416/mbbsres3rd.pdf
+/public/ExamResults/2016/130416/MBA(IT)_RESULT_DEC 2015.pdf
+/public/ExamResults/2016/130416/MA(ENGLISH)_RESULT_DEC 2015.pdf
+/public/ExamResults/2016/130416/BJMC_24_3RD_5TH_final result_DEC15.pdf
+/public/ExamResults/2016/130416/BJMC_24_1st sem_final_DEC15.pdf
+/public/ExamResults/2016/130416/088_MAHM_upto_2014_Batch_Final Result_DEC.2015.pdf
+/public/ExamResults/2016/130416/088_MAHM_2015_Batch_Final_Result_DEC.2015.pdf
+/public/ExamResults/2016/130416/044_MCA_upto_2014_Batch_Final_Result_Dec.2015.pdf
+/public/ExamResults/2016/130416/044_MCA_2015_Batch_Final_Result_Dec.2015.pdf
+/public/ExamResults/2016/130416/020__BCA__upto_2014_Batch_Final_Result_Dec.2015.pdf
+/public/ExamResults/2016/130416/020__BCA__2015_Batch_Final Result-Dec.2015.pdf
+/exam/ExamResults/2016/290216/B.Pharma Result Exam Held in December - 2015.pdf
+/public/ExamResults/2016/090416/REGULAR RESULT OF BCOM (H) IST SEMESTER 2015 BATCH E T EXAM DEC 2015.pdf
+/public/ExamResults/2016/090416/REGULAR RESULT OF BCOM (H) ALL SEMESTERS UPTO TO 2014 BATCHES E T EXAM DEC 2015.pdf
+/public/ExamResults/2016/090416/REGULAR RESULT OF BBA G IST SEMESTER 2015 BATCH E T EXAM DEC 2015.pdf
+/public/ExamResults/2016/090416/REGULAR RESULT OF BBA CAM IST SEMESTER 2015 BATCH E T EXAM DEC 2015.pdf
+/public/ExamResults/2016/090416/REGULAR RESULT OF BBA B&I IST SEMESTER 2015 BATCH E T EXAM DEC 2015.pdf
+/public/ExamResults/2016/090416/REGULAR & REAPPEAR RESULT OF BBA TTM ALL  SEM E T EXAM DEC 2015.pdf
+/public/ExamResults/2016/090416/REGULAR & REAPPEAR RESULT OF BBA MOM ALL  SEM E T EXAM DEC 2015.pdf
+/public/ExamResults/2016/090416/REGULAR & REAPPEAR RESULT OF BBA G ALL SEMESTERS UPTO 2014 BATCHES E T EXAM DEC 2015.pdf
+/public/ExamResults/2016/090416/REGULAR & REAPPEAR RESULT OF BBA CAM ALL SEMESTERS UPTO 2014 BATCHES E T EXAM DEC 2015.pdf
+/public/ExamResults/2016/090416/REGULAR & REAPPEAR RESULT OF BBA B&I ALL SEMESTERS UPTO 2014 BATCHES E T EXAM DEC 2015.pdf
+/public/ExamResults/2016/090416/PGDWE RESULT_DEC2015.pdf
+/public/ExamResults/2016/090416/MBA(W) RESULT_DEC 2015.pdf
+/public/ExamResults/2016/090416/MBA(SEM) RESULT_DEC2015.pdf
+/public/ExamResults/2016/090416/MBA(IB) RESULT_DEC2015_3rd Semester.pdf
+/public/ExamResults/2016/090416/MBA(IB) RESULT_DEC2015_1st sem.pdf
+/public/ExamResults/2016/090416/MBA(FM) Result_Dec2015_1st Sem.pdf
+/public/ExamResults/2016/090416/MBA(FM) Result_Dec2015_ 3rd Sem.pdf
+/public/ExamResults/2016/090416/MBA(DD) Result_Dec2015.pdf
+/public/ExamResults/2016/090416/MBA(B&I) RESULT_DEC2015.pdf
+/public/ExamResults/2016/090416/MBA (39) Result_Dec2015_3rd Sem.pdf
+/public/ExamResults/2016/090416/MBA (39) Result_Dec2015_1st Sem.pdf
+/public/ExamResults/2016/090416/MA(ECO) RESULT_DEC2015.pdf
+/public/ExamResults/2016/090416/M.PHIL(ENG) RESULT_DEC2015.pdf
+/public/ExamResults/2016/090416/M.A.(ENG) RESULT_DEC2015_3rd Sem.pdf
+/public/ExamResults/2016/050416/MBBS Third Prof. Part 1 (2012 Batch) Revised Supplementary Result Exam Held in February 2016.pdf
+/public/ExamResults/2016/050416/MBBS Third Prof. Part 1 (2011 Batch) Revised Supplementary Result Exam Held in February 2016.pdf
+/public/ExamResults/2016/050416/MBBS Third Prof. Part 1 (2010 Batch) Revised Supplementary Result Exam Held in February 2016.pdf
+/public/ExamResults/2016/050416/MBBS Third Prof. Part 1 (2009 Batch) Revised Supplementary Result Exam Held in February 2016.pdf
+/public/ExamResults/2016/040416/MBBS Third Prof Part 1 (2012 Batch) Supplemantary Exam Held in February 2016.pdf
+/public/ExamResults/2016/040416/MBBS Third Prof Part 1 (2011 Batch) Supplemantary Exam Held in February 2016.pdf
+/public/ExamResults/2016/040416/MBBS Third Prof Part 1 (2010 Batch) Supplemantary Exam Held in February 2016.pdf
+/public/ExamResults/2016/040416/MBBS Third Prof Part 1 (2009 Batch) Supplemantary Exam Held in February 2016.pdf
+/exam/ExamResults/2016/310316/BHMS 4th Year Result (2011 Batch) Regular Exam Held in January 2016.pdf
+/exam/ExamResults/2016/310316/BHMS 4th Year Result (2010 Batch) Supplemantary Exam Held in January 2016.pdf
+/exam/ExamResults/2016/310316/BHMS 3rd Year Result (2012 Batch) Regular Exam Held in January 2016.pdf
+/exam/ExamResults/2016/310316/BHMS 3rd Year Result (2011 Batch) Supplemantary Exam Held in January 2016.pdf
+/exam/ExamResults/2016/310316/BHMS 3rd Year Result (2010 Batch) Supplemantary Exam Held in January 2016.pdf
+/exam/ExamResults/2016/300316/112_MET_1SEM_REAPPEAR.pdf
+/exam/ExamResults/2016/300316/111_ME_1SEM_REAPPEAR.pdf
+/exam/ExamResults/2016/300316/110_EE_1SEM_REAPPEAR.pdf
+/exam/ExamResults/2016/300316/086_TE_1SEM_REAPPEAR.pdf
+/exam/ExamResults/2016/300316/056_ENE_1SEM_REAPPEAR.pdf
+/exam/ExamResults/2016/300316/049_EEE_1SEM_REAPPEAR.pdf
+/exam/ExamResults/2016/300316/037_PE_1SEM_REAPPEAR.pdf
+/exam/ExamResults/2016/300316/036_MAE_1SEM_REAPPEAR.pdf
+/exam/ExamResults/2016/300316/034_CIVIL_1SEM_REAPPEAR.pdf
+/exam/ExamResults/2016/300316/031_IT_1SEM_REAPPEAR.pdf
+/exam/ExamResults/2016/300316/030_ICE_1SEM_REAPPEAR.pdf
+/exam/ExamResults/2016/300316/028_ECE_1SEM_REAPPEAR.pdf
+/exam/ExamResults/2016/300316/027_CSE_1SEM_REAPPEAR.pdf
+/exam/ExamResults/2016/300316/086_TE_7th Sem.pdf
+/exam/ExamResults/2016/300316/056_ENE_7th Sem.pdf
+/exam/ExamResults/2016/300316/049_EEE_7th Sem.pdf
+/exam/ExamResults/2016/300316/037_PE_7th Sem.pdf
+/exam/ExamResults/2016/300316/036_MAE_7th Sem.pdf
+/exam/ExamResults/2016/300316/034_CIVIL_7th Sem.pdf
+/exam/ExamResults/2016/300316/031_IT_7th Sem.pdf
+/exam/ExamResults/2016/300316/030_ICE_7th Sem.pdf
+/exam/ExamResults/2016/300316/028_ECE_7th Sem.pdf
+/exam/ExamResults/2016/300316/027_CSE_7th Sem.pdf
+/exam/ExamResults/2016/300316/112_MET_5th Sem.pdf
+/exam/ExamResults/2016/300316/111_ME_5th Sem.pdf
+/exam/ExamResults/2016/300316/110_EE_5th Sem.pdf
+/exam/ExamResults/2016/300316/086_TE_5th Sem.pdf
+/exam/ExamResults/2016/300316/056_ENE_5th Sem.pdf
+/exam/ExamResults/2016/300316/049_EEE_5th Sem.pdf
+/exam/ExamResults/2016/300316/037_PE_5th Sem.pdf
+/exam/ExamResults/2016/300316/036_MAE_5th Sem.pdf
+/exam/ExamResults/2016/300316/034_CIVIL_5th Sem.pdf
+/exam/ExamResults/2016/300316/031_IT_5th Sem.pdf
+/exam/ExamResults/2016/300316/030_ICE_5th Sem.pdf
+/exam/ExamResults/2016/300316/028_ECE_5th Sem.pdf
+/exam/ExamResults/2016/300316/027_CSE_5th Sem.pdf
+/exam/ExamResults/2016/300316/BHMS 2nd Year Result (2013 Batch) Regular Exam Held in January 2016.pdf
+/exam/ExamResults/2016/300316/BHMS 2nd Year Result (2012 Batch) Supplemantary Exam Held in January 2016.pdf
+/exam/ExamResults/2016/300316/BHMS 1st Year Result (2014 Batch) Regular Exam Held in January 2016.pdf
+/exam/ExamResults/2016/300316/BHMS 1st Year Result (2013 Batch) Supplemantary Exam Held in January 2016.pdf
+/exam/ExamResults/2016/290316/112_MET_3rd Sem.pdf
+/exam/ExamResults/2016/290316/111_ME_3rd Sem.pdf
+/exam/ExamResults/2016/290316/110_EE_3rd Sem.pdf
+/exam/ExamResults/2016/290316/086_TE_3rd Sem.pdf
+/exam/ExamResults/2016/290316/056_ENE_3rd Sem.pdf
+/exam/ExamResults/2016/290316/049_EEE_3rd Sem.pdf
+/exam/ExamResults/2016/290316/037_PE_3rd Sem.pdf
+/exam/ExamResults/2016/290316/036_MAE_3rd Sem.pdf
+/exam/ExamResults/2016/290316/034_CIVIL_3rd Sem.pdf
+/exam/ExamResults/2016/290316/031_IT_3rd Sem.pdf
+/exam/ExamResults/2016/290316/030_ICE_3rd Sem.pdf
+/exam/ExamResults/2016/290316/028_ECE_3rd Sem.pdf
+/exam/ExamResults/2016/290316/027_CSE_3rd Sem.pdf
+/public/ExamResults/2016/230316/Dec2015/1st Semester/112_MET_1stSEM.pdf
+/public/ExamResults/2016/230316/Dec2015/1st Semester/111_ME_1stSEM.pdf
+/public/ExamResults/2016/230316/Dec2015/1st Semester/110_EE_1stSEM.pdf
+/public/ExamResults/2016/230316/Dec2015/1st Semester/086_TE_1stSEM.pdf
+/public/ExamResults/2016/230316/Dec2015/1st Semester/056_ENE_1stSEM.pdf
+/public/ExamResults/2016/230316/Dec2015/1st Semester/049_EEE_1stSEM.pdf
+/public/ExamResults/2016/230316/Dec2015/1st Semester/037_PE_1stSEM.pdf
+/public/ExamResults/2016/230316/Dec2015/1st Semester/036_MAE_1stSEM.pdf
+/public/ExamResults/2016/230316/Dec2015/1st Semester/034_CIVIL_1stSEM.pdf
+/public/ExamResults/2016/230316/Dec2015/1st Semester/031_IT_1stSEM.pdf
+/public/ExamResults/2016/230316/Dec2015/1st Semester/030_ICE_1stSEM.pdf
+/public/ExamResults/2016/230316/Dec2015/1st Semester/028_ECE_1stSEM.pdf
+/public/ExamResults/2016/230316/Dec2015/1st Semester/027_CSE_1stSEM.pdf
+/public/ExamResults/2016/210316/bams.pdf
+/exam/ExamResults/2016/180316/MBBS 3rd Prof. Part II (2011) Batch Supplementary  Exam Held in February 2016.pdf
+/exam/ExamResults/2016/180316/MBBS 3rd Prof. Part II (2010) Batch Supplementary  Exam Held in February 2016.pdf
+/exam/ExamResults/2016/180316/MBBS 3rd Prof. Part II (2009) Batch Supplementary  Exam Held in February 2016.pdf
+/exam/ExamResults/2016/180316/MBBS 3rd Prof. Part II (2008) Batch Supplementary  Exam Held in February 2016.pdf
+/exam/ExamResults/2016/180316/MBBS 3rd Prof. Part II (2007) Batch Supplementary  Exam Held in February 2016.pdf
+/exam/ExamResults/2016/180316/MBBS 3rd Prof. Part II (2006) Batch Supplementary  Exam Held in February 2016.pdf
+/exam/ExamResults/2016/180316/MBBS 3rd Prof. Part II (2005) Batch Supplementary  Exam Held in February 2016.pdf
+/exam/ExamResults/2016/180316/MBBS 3rd Prof. Part II (2004) Batch Supplementary  Exam Held in February 2016.pdf
+/exam/ExamResults/2016/110316/b.tech_result_110316.pdf
+/exam/ExamResults/2016/080316/Rechecking result of Programme MBBS 2nd Professional, Exam.pdf
+/exam/ExamResults/2016/010316/Niti_Bhavna_6th Sem_65_M.Tech.(ITW)_Final Result_MJ2014.pdf
+/exam/ExamResults/2016/290216/B.Pharma Result Exam Held in December - 2015.pdf
+/exam/ExamResults/2016/160216/2_students_6thsem_248_final_RESULT_JUNE_2015.pdf
+/exam/ExamResults/2016/110216/mbbs3rd.pdf
+/exam/ExamResults/2016/110216/MBBS.pdf
+/exam/ExamResults/2016/110216/BAMS Revision Supplementary Result of 2nd Prof.  Ms. Sweety Sharma (E. No. 04250859211) Exam Held in December 2015-  January 2016.pdf
+/exam/ExamResults/2016/090216/BAMS Result of 3rd Professional Supplementary (2012 Batch) Exam Held in December 2015 - January 2016.pdf
+/exam/ExamResults/2016/090216/BAMS Result of 3rd Professional Supplementary (2010 Batch) Exam Held in December 2015 - January 2016.pdf
+/exam/ExamResults/2016/090216/BAMS Result of 2nd Professional Supplementary (2013 Batch) Exam Held in December 2015 - January 2016.pdf
+/exam/ExamResults/2016/090216/BAMS Result of 2nd Professional Supplementary (2012 Batch) Exam Held in December 2015 - January 2016.pdf
+/exam/ExamResults/2016/090216/BAMS Result of 2nd Professional Supplementary (2011 Batch) Exam Held in December 2015 - January 2016.pdf
+/exam/ExamResults/2016/090216/BAMS Result of 1st Professional Supplementary (2014 Batch) Exam Held in December 2015 - January 2016.pdf
+/exam/ExamResults/2016/090216/BAMS Result of 1st Professional Supplementary (2013 Batch) Exam Held in December 2015 - January 2016.pdf
+/exam/ExamResults/2016/090216/BAMS Result of 1st Professional Supplementary (2012 Batch) Exam Held in December 2015 - January 2016.pdf
+/exam/ExamResults/2016/040216/Revised Result_Shweta Sharma_MBA(WE)_May 2015.pdf
+/exam/ExamResults/2016/040216/Revised Result_Pooja Poply_MBA(RE)_May 2015.pdf
+/exam/ExamResults/2016/040216/MBBS 2nd Prof. Supplemenaty (2012 Batch) Exam Held in November - December 2015.pdf
+/exam/ExamResults/2016/040216/MBBS 2nd Prof. Supplemenaty (2011 Batch) Exam Held in November - December 2015.pdf
+/exam/ExamResults/2016/040216/MBBS 2nd Prof. Supplemenaty (2010 Batch) Exam Held in November - December 2015.pdf
+/exam/ExamResults/2016/040216/MBBS 2nd Prof. Supplemenaty (2009 Batch) Exam Held in November - December 2015.pdf
+/exam/ExamResults/2016/040216/MBBS 2nd Prof. Supplemenaty (2006 Batch) Exam Held in November - December 2015.pdf
+/exam/ExamResults/2016/040216/MBBS 2nd Prof. (2013 Batch) Exam Held in November - December 2015.pdf
+/exam/ExamResults/2016/040216/4_FEB_2016_3_STUDENT_FINAL_RESULT_42_MJ15.pdf
+http://ggsipuresults.nic.in/ipu/results/2016/250116/016_B.Arch._SUPPLEMENTARY_september_2015_Rechecking_Result_With NO Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2016/160116/Recheking Result of MBBS Third Prof.pdf
+http://ggsipuresults.nic.in/ipu/results/2016/070116/42_6th sem_FINAL_result_mj2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2016/070116/vaibhav_final_result_mj2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/051215/MBBS 3rd Prof Par t 1 (2009 batch) Supplementary Exam held in Nov- Dec 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/051215/MBBS 3rd Prof Par t 1 (2010 batch) Supplementary Exam held in Nov- Dec 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/051215/MBBS 3rd Prof Par t 1 (2011 batch) Supplementary Exam held in Nov- Dec 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/051215/Recheking Result of MBBS 1st Professional _Supplementary_ Programme Exam Held in October 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/051215/Result of MBBS 3rd Prof Par t 1 (2012 batch) Exam held in Nov- Dec 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/051215/Revised Result of Ms. Aditi Priyadarshini (E.No. 00920059011) MBBS 3rd Prof. Part II Exam held in Nov- Dec 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/031215/16_BARCH_SUPPLE_DECLARED RESULT_SEP2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/031215/16_BARCH_FINAL_SUPPLE_RIYA SHARMA_03590701610_AUG2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/031215/140_MMC_Nidhi Sharma_Revised_RESULT_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/101215/Result of Supplementary Exam M.Ch. (Plastic & Reconstructive Surgery) and M.Ch (Neuro Surgery) Exam held in November 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/111215/mbbs5pm.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/111215/bds5pm.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/181215/SAGARIKA CHAKRABORTY REVISED_013_final RESULT BT_DEC14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/181215/PRASHANT_KUMAR_15_B.Tech.(IT)_Result_MJ2015_final.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/231215/BTECH_RECHECKING_RESULT_MAY15_Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/231215/btech no change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/231215/Recheking result of BAMS Programme Exam Held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/231215/mbbs3rdpart2.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/231215/bamsresults.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/291215/140_MMC_Final Year Supplementary_Final Result_Sep.2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/291215/020_BCA_Mercy_Rechecking_Result_Dec.2014-Jan.2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/021115/BAMS 3rd Prof. (2012 Batch) Regular Result Exam Held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/021115/BAMS 2nd Prof. (2013 Batch) Regular Result Exam Held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/021115/BAMS 2nd Prof. (2012 Batch) Supplementary Result Exam Held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/021115/BAMS 1st Prof. (2014 Batch) Regular Result Exam Held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/021115/BAMS 1st Prof. (2013 Batch) Supplementary Result Exam Held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/021115/BAMS 1st Prof. (2012 Batch) Supplementary Result Exam Held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/021115/35_38_LLB_Mercy_Final Result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/031115/Recheking Result of Anvita Gupta (E.No. 03350759111) Exam held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/031115/BAMS 3rd Prof. (2010 Batch) Regular Result Exam Held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/031115/BAMS 2nd Prof. (2011 Batch) Supplementary Result Exam Held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/031115/BAMS 1st Prof. (2011 Batch) Supplementary Result Exam Held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/051115/MBA_W_ June-July 2015_Rechecking Result.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/181115/REVISED RESULT OF BCOM (H) E T EXAM MAY 2015 ( MS. PALAK MATHUR ROLL NO. 06313788813).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/261115/Revised_128_3 students_FINAL_result_mj15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/261115/2 students_revised_FINAL RESULT MJ15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/271115/BTECH__REVISED__RESULT__DECEMBER__2014__24112015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/301115/result of llb.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/011015/Result of MD-MS (Supplementary) Exam held in September 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/011015/Recheking Result of BASLP Prog. (E.No.01420209613) Exam held in may- june 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/051015/RL_Case_39_MBA_Final Result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/081015/Recheking Result of BASLP Prog.  Exam Held in May- June  2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/091015/LLB_Final Year Supplementary_ Result_Aug.2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/121015/rishabh narwara REVISED_final_RESULT_15_b.tech_IT_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/121015/deepanshu gaur_FINAL RESULT_mj15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/121015/03316101414_14_B.Tech.(CE)_USS_Final result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/121015/24_BJMC_Final Supplementary_Final Result_Aug2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/Shweta & Ramesh_885_MBA(W)_RESULT_Dec 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/Rehcecking Result_MBA_ May 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/Punyapu Kr. Ramesh_Mercy Result_July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/MBA_Supplementary_Result_August 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/887_MBA(CM)_Result_July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/885_MBA(WE)_Result_JULY 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/44_MCA_Final Supplementary_Final Result_Aug2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/337__ADCGC__1st_Annual_Final_Result__MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/336_MBA(RE)_Result_ July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/335_MBA(B&I)_Result_July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/33_PGDPR_3_Trimester_Final Result_Aug2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/21_B.Ed._Final Supplementary_Final Result_Aug2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/151015/SUPPLEMENT_151015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/151015/MTECHFINAL_151015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/161015/Rechecking Result (With Change)_MBA_May 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/161015/Charu Goel_MBA(FM)_Result_May 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/201015/RECHECKING RESULT OF BBA(ALL) & BCOM (H) FOR NO CHANGE E T EXAM MAY - JUNE 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/201015/RECHECKING RESULT OF BBA (G) RATUL KUMAR 01719801712 MAY JUNE 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/201015/20_BCA_Final Year Supplementary_Final Result_Aug2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/011015/Result of MD-MS (Supplementary) Exam held in September 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/011015/Recheking Result of BASLP Prog. (E.No.01420209613) Exam held in may- june 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/051015/RL_Case_39_MBA_Final Result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/081015/Recheking Result of BASLP Prog.  Exam Held in May- June  2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/091015/LLB_Final Year Supplementary_ Result_Aug.2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/121015/rishabh narwara REVISED_final_RESULT_15_b.tech_IT_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/121015/deepanshu gaur_FINAL RESULT_mj15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/121015/03316101414_14_B.Tech.(CE)_USS_Final result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/121015/24_BJMC_Final Supplementary_Final Result_Aug2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/Shweta & Ramesh_885_MBA(W)_RESULT_Dec 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/Rehcecking Result_MBA_ May 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/Punyapu Kr. Ramesh_Mercy Result_July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/MBA_Supplementary_Result_August 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/887_MBA(CM)_Result_July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/885_MBA(WE)_Result_JULY 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/44_MCA_Final Supplementary_Final Result_Aug2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/337__ADCGC__1st_Annual_Final_Result__MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/336_MBA(RE)_Result_ July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/335_MBA(B&I)_Result_July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/33_PGDPR_3_Trimester_Final Result_Aug2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/131015/21_B.Ed._Final Supplementary_Final Result_Aug2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/151015/SUPPLEMENT_151015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/151015/MTECHFINAL_151015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/161015/Rechecking Result (With Change)_MBA_May 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/161015/Charu Goel_MBA(FM)_Result_May 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/201015/RECHECKING RESULT OF BBA(ALL) & BCOM (H) FOR NO CHANGE E T EXAM MAY - JUNE 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/201015/RECHECKING RESULT OF BBA (G) RATUL KUMAR 01719801712 MAY JUNE 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/201015/20_BCA_Final Year Supplementary_Final Result_Aug2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/211015/Result of B.Sc. (MTR), B.Sc. (MLT), MPO, MPT (C), MPT (N), MPT (S), Supplementary Exam held in August- September 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/211015/RECHECKING RESULT OF BCOM (H) E T EXAM MAY JUNE 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/211015/RECHECKING RESULT OF BBA (G) E T EXAM MAY JUNE 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/211015/740_MJMC_2 & 4_SEMESTER_DECLARE_RESULT_JULY_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/211015/740_MJMC_1 & 4_TRIMESTER_DECLARE_RESULT_JULY_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/211015/301_BCA(IS)_Mercy_Final Result_AUGUST_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/281015/REVISED RESULT OF BCOM (H) CHIRAG MADAN ROLL NO. 06996788813 E T EXAM DEC 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/281015/niranjan kumar_revised_42_FINAL_PRINT_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/281015/B.Tech. Affiliated Institutes Final Year Supplementary Exam August 2015 Result.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/010915/Revised Result of BHMS Prog. (E. No. 01312602311) and E.No. (02812602311) Supplementary Exam held in May- June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/020915/Recheking Result of MPO Exam Held in may- June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/020915/Recheking Result of BHMS _Supplementary_ Exam Held in may- June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/070915/16_B.Arch_Final Declared Result_Mercy_MJ15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/070915/BTECH__REVISED RESULT__MAY__2015__03092015__07.09.2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/080915/AMITKUMAR_MBBS.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/080915/004_4th SEM_FINAL_PRINT_MAY JUNE 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/090915/Recheking Result of B.Sc. (N) Prog. Ms. Monika Panchan (E.No.01350306610) Exam held May- June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/090915/Recheking Result of B.Sc. _N_ Prog. Exam Held in may- June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/100915/45_MCA_(SE)_RECHECKING RESULT_MJ2015_RESULT_WITH_NO_CHANGE.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/100915/44_MCA_REVISED RESULT_MJ2015_RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/100915/44_MCA_RECHECKING RESULT_MJ2015_RESULT_WITH_NO_CHANGE.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/100915/44_MCA_RECHECKING RESULT_MJ2015_RESULT_WITH_CHANGE.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/100915/247_MSC(NRM)_REVISED RESULT_MJ2015_RESULT_02216300413.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/100915/24_BJMC_RECHECKING RESULT_MJ2015_RESULT_WITH_NO_CHANGE.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/100915/24_BJMC_RECHECKING RESULT_MJ2015_RESULT_WITH_CHANGE.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/100915/20_BCA_REVISED RESULT_MJ2015_RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/100915/20_BCA_RECHECKING RESULT_MJ2015_RESULT_WITH_NO_CHANGE.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/100915/20_BCA_RECHECKING RESULT_MJ2015_RESULT_WITH_CHANGE.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/110915/740_MJMC_RECHECKING RESULT_April_2015_WITH_NO_CHANGE.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/110915/740_MJMC_REAPPEAR_TRIMESTER_RESULT_Apr2015_of_Neha Chopra_02020374010.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/110915/21_B.Ed._Revised_Result_May-June 2015_of_Reetu Rani_032192020113.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/110915/21_B.Ed._Regular_Result_of_Dolly Sharma_30220002114_May_June_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/110915/21_B.Ed._Rechecking Result_May-June 2015_with_NO_CHANGE.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/110915/21_B.Ed._Rechecking Result_May-June 2015_with_CHANGE.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/110915/20_BCA_Mercy Result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/110915/16_B.Arch._REVISED RESULT_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/110915/16_B.Arch._RECHECKING RESULT_MJ2015_WITH_NO_CHANGE.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/110915/16_B.Arch._RECHECKING RESULT_MJ2015_WITH_CHANGE.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150915/BASLP (Reappear) Result Exam Held in May 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/170915/RTI RECHEKING RAJAT KOTHARI FINAL RESULT MJ15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/170915/revised 15_B.Tech.(IT)_FINAL Result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/170915/RECHECKING RESULT   MAY- 2015 EXAM.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/170915/05716412811_RTI RECHEKING_FINAL_MJ 15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/170915/04016101413_FINAL RESULT_2nd sem_mj15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/210915/BPT (Supplementary) Result Exam Held in August 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220915/RL_Case_35_38_LLB_Final Result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220915/Revision_35_38_LLB_Final Result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220915/REVISED RESULT OF BBA (B&I) E T EXAM MAY 2015 ( MS AKSHITA SAPRA ROLL NO. 05010601811).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220915/Recheking Result of MBBS 1st Prof.  Exam Held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220915/Recheking Result of BDS Prog. Exam Held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220915/Rechecking_35_38_LLB_Final Result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220915/No Change_Rechecking Result_BALLB_H__BBALLB_H__May June2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220915/886_MBA(DM)__Result_July2015a.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220915/Revision_39_MBA_Final Result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/230915/Recheking Result of MBBS 1st Prof.  Exam Held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/230915/jyoti_revised_053_M.Tech.(IT)_Result_MJ2015_31053052015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/240915/5_students_6thsem_248_final_RESULT_JUNE_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/240915/2 student_6sem_65_PRINT_final result_MAY 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/010815/8th Sem_14_B.Tech.(CE)_USS_Final Result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/010815/35_38_LLB_Final Result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/010815/16_B.Arch_Result_Final Result_Mj2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/040815/DM M.Ch. Result Exam Held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/040815/65_PRINT_2ND_4TH_SEM_FINAL_MAY 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/040815/52_FINAL RESULT 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/040815/42_2ND_4TH_SEM_final result_PRINT_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/040815/248_2ND_4TH_SEM_FINAL_RESULT_JUNE_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/040815/08_2ND_SEM_FINAL RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/040815/07_2ND_SEM_FINAL RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/040815/06_2ND_SEM_FINAL RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/040815/05_2ND_SEM_FINAL RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/Rechecking Result of 1st, 3rd, 5th, and 7th Semester of B. Tech. (Affiliated Institutes), December 2014 End Term Examination.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/M.Tech(ITR) 53_All RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/M.Tech(BT) DD 213_ALL RESULT_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/M. TECH (ECE)DD 228_ALL RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/M. Tech (ECE)142_ALL RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/M. Tech (CSE)Regular 48_ALL RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/M. Tech (CE) 95_ALL RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/BTECH__RESULT__DEC14__RECHECKING.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/B. Tech (BT) 8THSEM_013_final_RESULT_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/89_mcphm_2 & 4_semester_declared_result_May-June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/88_mahm_2 & 4_semester_declared_result_May-June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/247_MSC(NRM)_2 and 4_semester_declared_result_May-June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/232_M.TECH_CSE (DD)_FINAL RESULT_MAY_JUNE_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/215_final result.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/149_final_Result_may_june2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/140_MMC_2 & 4_semester_declared_result_May-June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/122_BED (HI)_2_semester_declared_result_May-June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/08_4TH_SEM_final_result.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/07_4TH_SEM_final_result.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/06_4TH_SEM_final_result.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/05_4TH_SEM_final_RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/047_MSC(EM)__2 and 4_semester_declared_result_May-June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/060815/003_M.Sc.(BDC)_2 and 4_semester_declared_result_May-June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/070815/170_LLM_W__MJ15_Final_Result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/100815/70_LLM_Final Result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/100815/004_2nd semester_MAY JUNE 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/100815/2_4_6 Sem_14_B.Tech.(CE)_USS_FINAL RESULT_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/100815/2, 4, 6th SEM_013_ B. Tech (BT)FINAL_RESULT_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130815/Satish Tyagi_MBA(W)_ Rechecking Result_Dec 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130815/Revised Result_Jitender Singh_MBA(FM)_DEC 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130815/Gautam Baswal & Nikhil Bansal_MBA_Pending Result_May 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130815/740_MJMC_TRIMESTER_DECLARE_RESULT_Apr2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/140815/pgdrp_FINAL_RESULT_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/140815/17students_6thsem_M.Tech(CSE)(W)_FINAL_RESULT_JUNE_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/140815/7student_6sem_M.Tech(IT)(W)_PRINT_RESULT_MAY 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/140815/2ndsem_97_FINAL_RESULT_MJ_2015..pdf
+http://ggsipuresults.nic.in/ipu/results/2015/190815/Revised Result Dec. 2014 for B.Ed. Programme (Anubha Singh_08316702114).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/190815/Revised Result Dec. 2014 for B.Ed. (HI) Programme (Geeta Rani_30235412214).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200815/MERCY RESULT OF BBA (TTM) E T EXAM MAY-JUNE 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200815/MERCY RESULT OF BBA (G)  E T EXAM MAY-JUNE 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200815/MERCY RESULT OF BBA (CAM) E T EXAM MAY-JUNE 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/240815/03216101414_14_B.Tech.(CE)_USS_FINAL RESULT_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250815/M. Tech (NANO) 2nd & 4th Semester-2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250815/B.TECH_IT_15_FINAL RESULT MERCY_JUNE 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250815/B.TECH_CT_14_MERCY FINAL RESULT_JUNE 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250815/B.TECH_BT_13_MERCY FINAL RESULT_JUNE 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250815/4th_sem_97_FINAL_print_2015..pdf
+http://ggsipuresults.nic.in/ipu/results/2015/260815/Recheking Result of BPT Programme Exam Held in May- June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/260815/Rechecking Result of BPT Ms. Hricha Vimal (02111202612) Exam Held In May- June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/260815/BPT Revised 2nd year Result Exam held in May- June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/SHIVANI GUPTA_REVISED_FINAL RESULT_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/RAKESH RANJAN REVISED FINAL RESULT 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/Rachna_Revision_4th Sem_52_M.Tech.(VLSI)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/pankaj singh_revised_final_48_june 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/MOHIT GUPTA_14_B.Tech.(CE)_USS_Final result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/GARIMA REVISED FINAL RESULT_142_MJ 2015.pdf
+28-Aug-15 12:00:00 AM
+http://ggsipuresults.nic.in/ipu/results/2015/280815/REVISED RESULT OF BCOM (H) E T EXAM MAY JUNE 2015 ( PRATEEK SEHRAWAT 03017788813).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/REVISED RESULT OF BBA G E T EXAM MAY JUNE 2015 (VIPS JIMS-K  SGTBIMIT).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/MBBS 1st Prof. 2014 Batch (Regular) Exam held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/MBBS 1st Prof. 2013 Batch (Supplementary) Exam held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/MBBS 1st Prof. 2012 Batch (Supplementary) Exam held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/MBBS 1st Prof. 2010 Batch (Supplementary) Exam held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/MBBS 1st Prof. 2007 Batch (Supplementary) Exam held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/BDS 4th Prof. 2011 Batch (Regular) Exam held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/BDS 3rd Prof. 2012 (Regular) Exam held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/BDS 3rd Prof. 2011 batch (Supplementary) Exam held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/BDS 2nd Prof. 2013 Batch (Regular) Exam held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/BDS 2nd Prof. 2012 batch (Supplementary) Exam held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/BDS 1st Prof. 2014 batch (Regular) Exam held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280815/BDS 1st Prof. 2013 batch (Supplementary) Exam held in July 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/070715/0031322702_B.Tech.(CSE)_Mercy Result_Final Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/090715/Rechecking_Aman Rewaria_38_2nd Year Onwards_LLB_Final Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/090715/No Change_Rechecking Result_Dec.2014_Jan.2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/090715/03_MSC(BIOCON)_DECLARE_REAPPEAR_RESULT_DEC_2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/B.Sc. (MLT) Result May- June 2015 (1st, 2nd, 3rd Year).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/bhmsmay2015/4th BHMS (Supplementary) Exam held in May- June 2015, (2010 Batch).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/bhmsmay2015/4th BHMS (Supplementary) Exam held in May- June 2015, (2009 Batch).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/bhmsmay2015/3rd BHMS (Supplementary) Exam held in May- June 2015, (2011 Batch).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/bhmsmay2015/2nd BHMS (Supplementary) Exam held in May- June 2015, (2012 Batch).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/bhmsmay2015/2nd BHMS (Supplementary) Exam held in May- June 2015, (2010 Batch).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/bhmsmay2015/1st BHMS (Supplementary) Exam held in May- June 2015, (2013 Batch).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/bhmsmay2015/1st BHMS (Supplementary) Exam held in May- June 2015, (2012 Batch).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/MPT (S) Result Exam held in May- June 2015 (1st, 2nd Year).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/MPT (N) Result Exam held in May- June 2015 (1st, 2nd Year).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/MPT (M) Result Exam held in May- June 2015 (1st, 2nd Year).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/MPO Result Exam held in May- June 2015 (1st, 2nd Year).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/MPH (FE) Result Exam held in May- June 2015 (2nd, 4th Semester).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/MOT (N) Result Exam held in May- June 2015 (1st, 2nd Year).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/BPO Result Exam held in May- June 2015 (1st, 2nd, 3rd Year).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/BASLP Result Exam held in May- June 2015 (1st, 2nd, 3rd Year).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/B.Sc. (Nursing) Result Exam held in May- June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/B.Pharma Result Exam held in May- June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120715/B.Pharma Mercy Result Exam held in May- June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150715/REVISED_nand kishore 032_final RESULT CSE_DEC14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/170715/121_B.Ed.(MR)_DECLARE_RESULT_May_June_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/170715/059_M.Sc.(FS)_DECLARE_RESULT_May_June_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/170715/058_M.Sc.(CRIM)_DECLARE_RESULT_May_June_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/170715/033_PGDPR_DECLARE_RESULT_May_June_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/170715/021_B.Ed._DECLARE_RESULT_May_June_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/170715/001_M.Ed._DECLARE_RESULT_May_June_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/170715/020__BCA__FINAL_RESULT__MJ15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200715/45_MCA(SE)_FINAL_RESULT_MJ2015_16045052015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200715/24_BJMC_ Final Result_May-June2015_.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200715/144_MCA(DD)_FINAL_RESULT_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200715/044__MCA__6th Sem__Final_Result.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200715/044__MCA__2nd & 4th SEM__MJ2015__FINAL RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200715/022__BHMCT__FINAL_RESULT_May June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/210715/MPT (C) Result Exam held in May- June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/210715/BPT Result Exam held in May- June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/210715/B.Sc. (Yoga Science) Result Exam held in May- June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/210715/B.Sc. (MTR) Result Exam held in May- June 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220715/NITISH_REVISED_final_result_MJ15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220715/Monica_revised_final_result_MJ15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/240715/mba/99_MBA(SEM)_Result_May 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/240715/mba/593_MBA(FM)_Result_May 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/240715/mba/143_MBA(IB)_Result_May 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/240715/009_MA(E&CS)_Result_May 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/240715/BBA_ALL DECLARED RESULT M2015/REGULAR & REAPPEAR RESULT OF BBA (TTM) ALL SEMESTER  E T EXAM MAY 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/240715/BBA_ALL DECLARED RESULT M2015/REGULAR & REAPPEAR RESULT OF BBA (MoM) ALL SEMESTER  E T EXAM MAY 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/240715/BBA_ALL DECLARED RESULT M2015/REGULAR & REAPPEAR RESULT OF BBA (G) 6TH SEMESTER  E T EXAM MAY 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/240715/BBA_ALL DECLARED RESULT M2015/REGULAR & REAPPEAR RESULT OF BBA (G) 4TH SEMESTER  E T EXAM MAY 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/240715/BBA_ALL DECLARED RESULT M2015/REGULAR & REAPPEAR RESULT OF BBA (G) 2ND SEMESTER  E T EXAM MAY 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/240715/BBA_ALL DECLARED RESULT M2015/REGULAR & REAPPEAR RESULT OF BBA (CAM) ALL SEMESTER  E T EXAM MAY 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/240715/BBA_ALL DECLARED RESULT M2015/REGULAR & REAPPEAR RESULT OF BBA (B&I) ALL SEMESTER  E T EXAM MAY 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/240715/B.COM(H)_RESULT_MAY2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/240715/New_39_MBA_Final Result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/240715/139_MBA(DD)_Final Result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH8/086__BTECH(TE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH8/056__BTECH(ENE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH8/049__BTECH(EEE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH8/037__BTECH(PE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH8/036__BTECH(MAE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH8/034__BTECH(CE)__MAY15.pdf.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH8/031__BTECH(IT)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH8/030__BTECH(ICE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH8/028__BTECH(ECE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH8/027__BTECH(CSE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH6/086__BTECH(TE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH6/056__BTECH(ENE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH6/049__BTECH(EEE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH6/037__BTECH(PE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH6/036__BTECH(MAE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH6/034__BTECH(CE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH6/031__BTECH(IT)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH6/030__BTECH(ICE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH6/028__BTECH(ECE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH6/027__BTECH(CSE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH4/112__BTECH(MET)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH4/111__BTECH(ME)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH4/110__BTECH(EE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH4/086__BTECH(TE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH4/056__BTECH(ENE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH4/049__BTECH(EEE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH4/037__BTECH(PE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH4/036__BTECH(MAE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH4/034__BTECH(CE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH4/031__BTECH(IT)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH4/030__BTECH(ICE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH4/028__BTECH(ECE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH4/027__BTECH(CSE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH2/112__BTECH(MET)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH2/111__BTECH(ME)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH2/110__BTECH(EE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH2/086__BTECH(TE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH2/056__BTECH(ENE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH2/049__BTECH(EEE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH2/037__BTECH(PE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH2/036__BTECH(MAE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH2/034__BTECH(CE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH2/031__BTECH(IT)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH2/030__BTECH(ICE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH2/028__BTECH(ECE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/BTECH2/027__BTECH(CSE)__MAY15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/PhD Course Work 2nd Semester May 2015 Exam Result.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250715/PhD Course Work 1st Semester January 2015 Exam Result.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/310715/186_Final result_june2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/310715/128_final result_PRINT_JUNE_2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/310715/32_B.Tech.(CSE)_Result_MJ2015_Final result.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/310715/15_B.Tech.(IT)_Result_MJ2015_final result.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/310715/B.Tech. (Affiliated Institutes) All Semesters Revised Result of December 2014 Examination.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/020615/REVISED_FINAL_RESULT_15_b.tech_IT_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/020615/REVISED_142_ECE_FINAL_result_dec14_.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/020615/REVISED_032_FINAL RESULT CSE_DEC14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/020615/REVISED_014_FINAL RESULT CT_DEC14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/020615/REVISED_013_FINAL RESULT BT_DEC14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/020615/REVISED_07_DC_FINAL_result_dec14_.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/020615/REVISED_004_FINAL RESULT BC_DEC14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/020615/USHA KANT_42_M.Tech.(ECE)_Weekend_MARKSHEET_Dec2014_31042122014..pdf
+http://ggsipuresults.nic.in/ipu/results/2015/040615/rechecking_397_pgdrp_dec2014_final_resultpdf.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/040615/rechecking_128_b.tech_ece_FINAL_result_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/040615/rechecking_53_m.tech_itr_FINAL_RESULT_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/040615/Rechecking_032_final RESULT CSE_DEC14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/040615/rechecking_014_FINAL_ RESULT CT_DEC14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/040615/rechecking_08_IS_FINAL_result_dec14_.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/040615/no change case rechecking and RTI result.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/090615/Revised Result of MD_MS Prog. (E.No. 00459035912)  Exam held in March 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120615/revised_05_m.tech_sp_FINAL_RESULT_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/120615/336_MBA(RE)_Mercy_Result_Dec. 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160615/REVISED_10_06_2015_032_final RESULT CSE_DEC14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/190615/MMC_Rechecking_Result_Dec.2014-Jan.2015_With_No_Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/190615/MJMC_Rechecking_Result_Jan.2015_With_No_Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/190615/M.Sc.(CRIM)_Rechecking_Result_Dec.2014-Jan.2015_With_No_Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/190615/B.Ed. (MR)_Rechecking_Result_Dec.2014-Jan.2015_With_No_Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/190615/045_MCA(SE)_3rd and 5th Semester__Rechecking_Result__Dec.14_With_No_Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/190615/045_MCA(SE)_3rd and 5th Semester__Rechecking_Result__Dec.14_With Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/190615/045_MCA(SE)_1st Semester__Rechecking_Result__Dec.14_With_No_Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/190615/045_MCA(SE)__1st Semester_Revised_Result_Dec.14__With Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/190615/045_MCA(SE)__1st Semester_Rechecking_Result__Dec.14_with Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/190615/044_MCA_3rd & 5th Semester__RECHECKING RESULT__Dec.14_With_No_Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/190615/044_MCA__3rd & 5th Semester__REVISED RESULT__Dec.14_With Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/190615/044_MCA__1st Semester__RECHECKING RESULT__Dec.14__With_No_Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/190615/044_MCA__1st Semester__RECHECKING RESULT__Dec.14__With_Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/190615/021_B.Ed._2nd Semester_Rechecking_Result_Dec.2014-Jan.2015_With_No_Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/190615/021_B.Ed._2nd Semester_Rechecking_Result__Dec2014_with_change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200615/Revised_RESULT_BJMC_3RD_5TH SEM_DEC.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200615/REVISED_RESULT_BJMC_1st_SEM_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200615/Revised Result_38_LLB_Mercy_Final Result_Dec.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200615/Revised Result_38_2nd Year Onwards_LLB_Final Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200615/Revised Result_1st Year_38_35_LLB_Final Result_Dec.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200615/Recheking Result_BHMCT_Tushar Arora_02311002214_Dec.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200615/Rechecking_38_2nd Year Onwards_LLB_Final Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200615/Rechecking_1st Year_38_35_LLB_Final Result_Dec.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200615/No Change_LLB_Mercy_Rechecking Result_Dec.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200615/No Change_LLB_3rd_5th_7th_9th_Sem_Rechecking Result_Dec.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200615/No Change_LLB_1st Sem._Rechecking Result_Dec.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200615/No Change_BJMC_3rd_5th_Sem._Rechecking Result Notesheet DEC.14-JAN.15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200615/No Change_BJMC_1st Sem._Rechecking Result Notesheet DEC.14-JAN.15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220615/020_BCA_3rd & 5th Semester__REVISED RESULT__Dec.14_With Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220615/020_BCA_3rd & 5th Semester__RECHECKING RESULT__Dec.14_With Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220615/020_BCA_1st_Semester__REVISED RESULT__Dec.14_With Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220615/020_BCA_1st_Semester__RECHECKING RESULT__Dec.14_With Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/230615/020_BCA__3rd & 5th_Semester__RECHECKING RESULT__Dec.14__With_No_Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/230615/020_BCA__1st Semester__RECHECKING RESULT__Dec.14__With_No_Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/230615/Revised Result_Aadarsh & Rishi_2nd Year_MBA_Dec 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/230615/Recheking Result of BAMS 1st Prof. Supplementary  Exam held in March 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/230615/Rechecking Result_2nd Year_MBA_Dec 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/230615/Rechecking Result_1st Year_MBA_Dec 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/230615/MBA_Rechecking Result_Dec. 2014_No Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/250615/Recheking Result of MD- MS Prog.  Exam held in March 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/270615/35_38_10th Sem_LLB_Final Result_MJ2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/290615/RECHECKING RESULT OF BCOM(H) E T EXAM DECEMBER 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/290615/RECHECKING RESULT OF BBA(CAM) E T EXAM DECEMBER 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/290615/RECHECKING RESULT OF BBA(ALL) & BCOM (H) FOR NO CHANGE E T EXAM DECEMBER 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/290615/RECHECKING RESULT OF BBA (G) E T EXAM DECEMBER 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/290615/RECHECKING RESULT OF BBA (B&I) E T EXAM DECEMBER 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/050515/RECHECKING RESULT Of BHMS Prog..pdf
+http://ggsipuresults.nic.in/ipu/results/2015/050515/RECHECKING RESULT Of BAMS 2nd Prof..pdf
+http://ggsipuresults.nic.in/ipu/results/2015/070515/BAMS 1st Prof. (Supplementary) Result Exam held in March 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/080515/Result of MD-MS Regular Examiantion Exam held in March- April 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/080515/Result of DCH (Regular) Exam held in March 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/080515/MD in Dermatology Regular Result Exam held in March 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/080515/vaibhav_042_M.TECH_ECE_W_final_result_dec14_.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/080515/042_M.TECH_ECE_W_FINAL RESULT_dec14_.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/190515/B.Pharma Mercy Exam held in December 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200515/Recheking Result of MBBS 3rd Prof. Part II Exam held in March 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/260515/MBA(DM)_Revised Result_Dec. 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/260515/MBA(39)_2nd Year_Revised Result_Dec. 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/260515/MBA(39)_1st Year_ Revised Result_Dec. 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/260515/887_MBA(CM)_Final Result_Dec. 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/260515/885_MBA(W)_ Final Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/260515/593_MBA(FM)_Revised Result_Dec. 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/260515/336_MBA(RE)_Final Result_ Dec. 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/260515/335_MBA(B&I)_FINALResult_ Dec. 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/270515/REVISED RESULT OF BBA G E T EXAM DEC 2014 (MR. DEEPAK PARCHA ROLL NO. 04813401709).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/270515/PENDING RESULT OF BBA G E T EXAM DEC 2014 ( MR. MOHAK JAIN ROLL NO. 17014701714).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/270515/avneet_revised_final_result_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/270515/02616406510_65_M.Tech.(ITW)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/270515/2 students_revised_final_result_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280515/885_MBA(W)_Mercy_Final Reuslt_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/280515/335_Mercy_MBA(B&I)_Final Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/290515/BAMS 2nd Prof. Recheking Result (Regular and Supplementary) Exam held in Nov- Dec 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/010415/BHMS Result (2013 Batch) Regular Exam held in Jan- 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/010415/BHMS Result (2012 Batch) supplementary  Exam held in Jan - 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/010415/BHMS Result (2012 Batch) Regular Exam held in Jan- 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/010415/BHMS Result (2011 Batch) Regular Exam held in Jan- 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/010415/BHMS Result (2010 Batch) supplementary  Exam held in January- 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/010415/BHMS Result (2010 Batch) Supplemantary Exam held in Jan- 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/010415/BHMS Result (2010 Batch) Regular Exam held in Jan- 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/010415/BHMS Result (2009 Batch) supplementary  Exam held in Jan- 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/010415/MBBS Third Prof. Part 1 (2011 Batch) Supplementary Exam held in March 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/010415/MBBS Third Prof. Part 1 (2010 Batch) Supplementary Exam held in March 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/010415/MBBS Third Prof. Part 1 (2009 Batch) Supplementary Exam held in March 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/010415/MBBS Third Prof. Part 1 (2008 Batch) Supplementary Exam held in March 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/010415/MBBS Third Prof. Part 1 (2004 Batch) Supplementary Exam held in March 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150115/014_FINAL RESULT CT_DEC14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/m.tech_tool_engg._dec14_FINALresult.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/M.TECH_EP_FINAL_RESULT_DEC14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/M. Tech (NANO)_FINAL_RESULT_DEC14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/397_PGDRP_dec2014_FINAL_resultpdf.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/248_m.tech_CSE (W)_FINAL RESULT_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/232_m.tech_cse_dd_fINAL_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/228_M. Tech(ECE)_DD_fINAL_result_dec14_.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/215_m.tech_it_dd_FINAL_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/213_m.tech_bt_dd_FINAL_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/149_m.tech_FPT_FINAL_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/142_M. Tech ECE (W)_FINAL_result_dec14_.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/128_b.tech_ece_FINAL_result_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/95_m.tech_CE_fiNAL RESULT_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/53_m.tech_itr_fiNAL RESULT_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/52_m.tech_vlsi_FINAL_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/48_M. Tech (CSE) Regular_fiNAL_RESULT_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/032_B.Tech.(CSE)_FINAL RESULT_DEC14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/15_b.tech_IT_FINAL_result_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/013_FINAL RESULT B. Tech ( BT)_DEC14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/08_M. Tech (IS)_fiNAL_result_dec14_.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/07_M. Tech (DC)_FINAL_result_dec14_.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/06_M. Tech (RF)_FINAL_result_dec14_.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/05_m.tech_sp_FINAL_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150415/004_FINAL RESULT B. Tech(BCE)_DEC14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160415/170_LLM(W)_Final Result_1st_3rdsem.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160415/70_LLM(R)_IstSem_Final Result.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160415/70_LLM(R)_DEC14_Final Resultt_3rdSem.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160415/38_LLB_Mercy_Final Result_Dec.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160415/38_Kartik Gandotra_Final Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160415/Final Year_Supplementary Result_Dec2014 of M.A. (English)_ B.Ed._ BCA_ BBA(G)_BBA(B&I)_BBA(CAM)_ MBA_ BHMCT_.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/170415/045_MCA(SE)_2nd YEAR__RESULT_DEC.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/170415/045_MCA(SE)_1st Year_RESULT__Dec.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/170415/20__BCA__MERCY__FINAL RESULT_DEC.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/170415/MERCY RESULT OF BBA (TTM) E T EXAM DEC 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/170415/MERCY RESULT OF BBA (G) E T EXAM DEC 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/170415/MERCY RESULT OF BBA (CAM) E T EXAM DEC 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/210415/65_m.tech_ITW_final_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/210415/593_MBA(FM)_RESULT_DEC2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/210415/139_MBA(DD)_Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220415/886_MBA(DM)_Final Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220415/740_MJMC_2 & 5 Trimester_Declared_Result_Jan.2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220415/740_MJMC_1 & 3 Semester_Declared_Result_Jan.2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/220415/122__B.Ed(HI)__Result__Dec14__FINAL RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/230415/02116406511_65_M.Tech.(ITW)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/290415/REVISED RESULT OF BBA (G) E T EXAM DEC 2014(MR YUDHVEER JANARTHA ROLL 40814701713).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/290415/REVISED RESULT OF BBA (B&I) E T EXAM DEC 2014(MR AYUSH ARORA ROLL 00517701814).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/290415/mercy_final_b.tech_it 15_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/290415/mercy_final_b.tech_ct 14_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/290415/mercy_final_b.tech_bt 13_dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/290415/MBBS 2nd Prof. (Suplementary) 2012 Batch Exam Held in March 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/290415/MBBS 2nd Prof. (Suplementary) 2011 Batch Exam Held in March 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/290415/MBBS 2nd Prof. (Suplementary) 2010 Batch Exam Held in March 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/290415/MBBS 2nd Prof. (Suplementary) 2009 Batch Exam Held in March 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/290415/MBBS 2nd Prof. (Suplementary) 2006 Batch Exam Held in March 2015.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/020315/Result of MBBS 3rd Prof. Part II (E. No. 00620059010) Exam held in Nov- Dec 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/020315/Rechecking Result of MBBS 3rd Prof. Part II Exam held in  Nov- Dec  2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/110315/Rechecking Result of MBBS 3rd Prof. Part I Exam held in  Nov- Dec  2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/110315/PENDING RESULT OF BCOM(H) 1ST SEM E T EXAM DEC 2013 (08521588813 SUGAM DHAMIJA).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/MPH (FE) Result Exam held in November- December 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/MBA(SEM)_ Result_Dec 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/MBA(IB)_ Resultt_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/MA (E&CS)_Result_Dec 14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/BJMC_3rd_5th Sem._Result_Dec.2014_final result.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/BJMC_1st Sem._Dec.2014_final result.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/B.Sc. (Yoga Science) Result Exam held in November- December 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/B.Pharma Result Exam held in November- December 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/247_MSC(NRM)__1 & 3_Semester_Declare_Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/144__MCA (Dual Degree)_1_Semester_Declared_Rresult__Dec_2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/140_MMC__1 & 3_Semester_Declare_Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/121_Bed (MR)__1_Semester_Declare_Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/89_MCPHM__1 & 3_Semester_Declare_Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/88_MAHM__1 & 3_Semester_Declare_Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/059_M.Sc.(FS)__1 & 3_Semester_Declare_Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/058_MA(CRIM)M.Sc.(CRIM)__1 & 3_Semester_Declare_Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/47_MSC(EM)__1 & 3_Semester_Declare_Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/44__MCA__3 & 5_Semester_Declared_Rresult__Dec_2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/044__MCA__1_Semester_Declared_Rresult__Dec_2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/33_PGDPR_1_Trimester_Declare_Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/22_BHMCT_Final Result _dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/21_B.Ed._1_Semester_Declare_Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/20__BCA__3 & 5_Semester_Declared_Rresult__Dec_2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/20__BCA__1_Semester_Declared_Rresult__Dec_2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130315/results/001_M.Ed_1_Semester_Declare_Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160315/REGULAR & REAPPEAR RESULT OF BCOM (H) 1ST SEMESTER  E T EXAM DECEMBER 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160315/REGULAR & REAPPEAR RESULT OF BCOM (H) 3RD SEMESTER  E T EXAM DECEMBER 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160315/REGULAR & REAPPEAR RESULT OF BBA (TTM) 3RD & 5TH SEMESTER  E T EXAM DECEMBER 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160315/REGULAR & REAPPEAR RESULT OF BBA (TTM) 1ST SEMESTER  E T EXAM DECEMBER 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160315/REGULAR & REAPPEAR RESULT OF BBA (MOM) 3RD & 5TH SEMESTER  E T EXAM DECEMBER 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160315/REGULAR & REAPPEAR RESULT OF BBA (MOM) 1ST SEMESTER  E T EXAM DECEMBER 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/230315/REGULAR & REAPPEAR RESULT OF BBA (G) IST SEMESTER  E T EXAM DECEMBER 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160315/REGULAR & REAPPEAR RESULT OF BBA (G) 3RD & 5TH SEMESTER  E T EXAM DECEMBER 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160315/REGULAR & REAPPEAR RESULT OF BBA (CAM) 3RD & 5TH SEMESTER  E T EXAM DECEMBER 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160315/REGULAR & REAPPEAR RESULT OF BBA (CAM) 1ST SEMESTER  E T EXAM DECEMBER 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160315/REGULAR & REAPPEAR RESULT OF BBA (B&I) 3RD & 5TH SEMESTER  E T EXAM DECEMBER 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160315/REGULAR & REAPPEAR RESULT OF BBA (B&I) 1ST SEMESTER  E T EXAM DECEMBER 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/7th semester/086_07_B. Tech_TE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/7th semester/056_07_B. Tech_ENE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/7th semester/049_07_B. Tech_EEE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/7th semester/037_07_B. Tech_PE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/7th semester/036_07_B. Tech_MAE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/7th semester/034_07_B. Tech_CE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/7th semester/031_07_B. Tech_IT_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/7th semester/030_07_B. Tech_ICE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/7th semester/028_07_B. Tech_ECE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/7th semester/027_07_B. Tech_CSE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/3rd semester/112_03_B. Tech_MET_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/3rd semester/111_03_B. Tech_ME_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/3rd semester/110_03_B. Tech_EE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/3rd semester/086_03_B. Tech_TE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/3rd semester/056_03_B. Tech_ENE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/3rd semester/049_03_B. Tech_EEE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/3rd semester/037_03_B. Tech_PE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/3rd semester/036_03_B. Tech_MAE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/3rd semester/034_03_B. Tech_CE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/3rd semester/031_03_B. Tech_IT_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/3rd semester/030_03_B. Tech_ICE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/3rd semester/028_03_B. Tech_ECE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/3rd semester/027_03_B. Tech_CSE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/1st semester/112_01_B. Tech_MET_Jan15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/1st semester/111_01_B. Tech_ME_Jan15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/1st semester/110_01_B. Tech_EE_Jan15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/1st semester/086_01_B. Tech_TE_Jan15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/1st semester/056_01_B. Tech_ENE_Jan15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/1st semester/049_01_B. Tech_EEE_Jan15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/1st semester/037_01_B. Tech_PE_Jan15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/1st semester/036_01_B. Tech_MAE_Jan15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/1st semester/034_01_B. Tech_CE_Jan15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/1st semester/031_01_B. Tech_IT_Jan15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/1st semester/030_01_B. Tech_ICE_Jan15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/1st semester/028_01_B. Tech_ECE_Jan15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/1st semester/027_01_B. Tech_CSE_Jan15.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/5th semester/086_05_B. Tech_TE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/5th semester/056_05_B. Tech_ENE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/5th semester/049_05_B. Tech_EEE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/5th semester/037_05_B. Tech_PE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/5th semester/036_05_B. Tech_MAE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/5th semester/034_05_B. Tech_CE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/5th semester/031_05_B. Tech_IT_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/5th semester/030_05_B. Tech_ICE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/5th semester/028_05_B. Tech_ECE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/5th semester/027_05_B. Tech_CSE_Dec14.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/180315/Recheking Result of MBBS 2nd Prof. Exam held in Nov- Dec 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/230315/MBA(39)_2nd Year_Final Result_Dec 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/230315/MBA (39)_1st Year_Final Result_Dec 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/270315/03_MSC(BIOCON)_FINAL_RESULT_DEC2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/270315/38_2nd Year Onwards_LLB_Final Result_Dec2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/270315/1st Year_38_35_LLB_Final Result_Dec.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/270315/MBBS Third Prof. Part II Supplemantary Exam 2010 Batch.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/270315/MBBS Third Prof. Part II Supplemantary Exam 2009 Batch.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/270315/MBBS Third Prof. Part II Supplemantary Exam 2008 Batch.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/270315/MBBS Third Prof. Part II Supplemantary Exam 2007 Batch.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/270315/MBBS Third Prof. Part II Supplemantary Exam 2006 Batch.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/270315/MBBS Third Prof. Part II Supplemantary Exam 2005 Batch.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/270315/MBBS Third Prof. Part II Supplemantary Exam 2004 Batch.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/310315/Recheking Result of MBBS IIIrd Prof. Part II (E.No. 0082009008) Exam held in Nov- Dec 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/310315/Recheking Result of MBBS 2nd Prof.  (E.No. 09220059012) Exam held in Nov- Dec 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/020215/24_MERCY_BJMC_DECLARE_DEC12.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/090215/Revised Result of BAMS Programme 1st Prof. (2013 Batch).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/090215/Revised Result of BAMS Programme 1st Prof. (2012 Batch).pdf
+http://ggsipuresults.nic.in/ipu/results/2015/090215/mbbs3prof/MBBS 3rd Prof. Part- I Supplemantary (Batch 2010) Exam held in Nov 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/090215/mbbs3prof/MBBS 3rd Prof. Part- I Supplemantary (Batch 2008) Exam held in Nov 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/090215/mbbs3prof/MBBS 3rd Prof. Part- I Supplemantary (Batch 2006) Exam held in Nov 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/090215/mbbs3prof/MBBS 3rd Prof. Part- I Supplemantary (Batch 2004) Exam held in Nov 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/090215/mbbs3prof/MBBS 3rd Prof. Part- I Regular (Batch 2011) Exam held in Nov 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/090215/mbbs2prof/MBBS 2nd Prof.  Supplemantary (Batch 2011) Exam held in Nov 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/090215/mbbs2prof/MBBS 2nd Prof.  Supplemantary (Batch 2010) Exam held in Nov 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/090215/mbbs2prof/MBBS 2nd Prof.  Supplemantary (Batch 2009) Exam held in Nov 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/090215/mbbs2prof/MBBS 2nd Prof.  Supplemantary (Batch 2006) Exam held in Nov 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/090215/mbbs2prof/MBBS 2nd Prof.  Regular (Batch 2012) Exam held in Nov 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130215/bams/BAMS 2nd Prof. (2012 Batch) Supplemantary Exam held in November 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130215/bams/BAMS 2nd Prof. (2011 Batch) Regular Exam held in November 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130215/bams/BAMS 2nd Prof. (2010 Batch) Supplemantary Exam held in November 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/020115/6th Sem_42_M.Tech.(ECE)_Weekend_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/130115/Priyanka_Revised_885_MBA(WE)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/150115/016_B. Arch._Rechecking_Supplementary_September_2014_Result_with change.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/160115/M.CH. (PLASTIC SURGERY) Supplementary Result Exam held in November 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200115/03.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200115/07.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200115/06.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200115/05.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200115/04.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200115/01.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/200115/02.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/30015/Recheking Result of MBBS 1st Prof. Supplementary Examination Exam held in Oct- Nov 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2015/30015/Recheking Result of BAMS 1st Prof. Regular and Supplementary Examination Exam held in September 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/021214/Manisha & Simaranjeet_011___B.Pharma___result__final.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/051214/tribhuwan_40657_Rev.Result_Dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/051214/Revision_149_M.Tech.(FT)_FINAL RESULT_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/051214/revised_02316405313_53_Final_result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/051214/3 Students_65_M.Tech.(ITW)_FINAL RESULT_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/091214/REVISED RESULT OF BBA(G) 2ND SEM E T EXAM MAY 2013 (MR. SHUBHM JAIN 14214701712).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/091214/REVISED RESULT OF BBA (G) 5TH SEM E T EXAM DECEMBER 2013 (DEEPAK PARCHA 04813401709).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/091214/REVISED RESULT OF BBA (G) 4TH SEM E T EXAM MAY 2014 (MS. PARUL SHIWAN 05221201712).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/101214/38_LLB_Supplementary_Result_Dec.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/191214/BAMS Supplementary 1st Prof. Exam held in September 2014, 2012 Batch.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/191214/BAMS Supplementary 1st Prof. Exam held in September 2014, 2011 Batch.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/191214/BAMS Regular 1st Prof. Exam held in September 2014, 2013 Batch.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/191214/Revised_885_MBA(WE)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/191214/Revised_336_MBA(RE)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/221214/MBBS 1st Prof. Supplementary Examination Exam Held in Oct- Nov 2014, all Batch.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/221214/BDS Supplementary Third Prof. 2011 Batch Exam Held in Oct- Nov 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/221214/BDS Supplementary Second Prof. 2012 Batch Exam Held in Oct- Nov 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/221214/BDS Supplementary Second Prof. 2011 Batch Exam Held in Oct- Nov 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/221214/BDS Supplementary Fourth Prof. 2010 Batch Exam Held in Oct- Nov 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/221214/BDS Supplementary First Prof. 2013 Batch Exam Held in Oct- Nov 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/241214/740_MJMC_August-2014_Rechecking Result_with_No Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/241214/044_MCA_Result_of_Md. Zaiyaul Haque (Ecrl. no. 03420504413) for_2nd Sem_May-2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/241214/044_MCA_Result_of_Md. Zaiyaul Haque (Ecrl. no. 03420504413) for_1st Sem_December 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/241214/020_BCA_Result_of_Yash Kokra (Ecrl. no. 02217202013) for_2nd Sem_May-2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/241214/020_BCA_Result_of_Yash Kokra (Ecrl. no. 02217202013) for_1st Sem_December 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/031114/M.TECH(W)_SUPPLE_final_result_SEP2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/031114/B.TECH_IT_15_SUPPLE_final_result_SEP2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/031114/B.TECH_ECE_128_SUPPLE_final_result_SEP2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/031114/B.TECH_CT_final_result_SUPPLE_SEP2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/031114/B.TECH_CSE_32_SUPPLE_final_result SEP2014_.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/031114/B.TECH_BT_final result_SUPPLE_SEP2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/071114/Recheking Result of B.Pharma Prashant Kumar Giri (05319601110) Exam Held In May- June 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/071114/Rechecking Result of BASLP Yogita (01320209612) Exam Held In May- June 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/131114/BPO Supplementary Result Exam Held in Sep- 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/141114/301_BCA(IS)_Reappear_Declared_Result_September_2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/141114/BARCH.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/171114/mait_revised_btech_dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/181114/Rechecking Result of BAMS Exam held in July- 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/191114/rechecking.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/201114/24_BJMC_Mercy_Final Result_August2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/241114/Rechecking result of BBA_All_ Supplementary Exam September 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/271115/Rechecking Result of B.Pharma Supplemantary Examination Exam held in Sep- 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/271115/MBA (WE)_ Rechecking Result_Jul 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/271115/044_MCA_Supplementary_Rechecking_Result_Septemeber_2014_With_No_Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/271115/024_BJMC_Supplementary_Rechecking_Result_Septemeber_2014_With_No_Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/271115/020_BCA_Supplementary_Rechecking_Result_Septemeber_2014_With_No_Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/281114/BTECH__RECHECKING__SUPPLEMENTARY_NO  CHANGE_RESULT__SEPTEMBER__2014__27112014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/281114/BTECH__RECHECKING__SUPPLEMENTARY_CHANGE_RESULT__SEPTEMBER__2014__27112014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/281114/BALLB_Supplementary_ Rechecking Result_with Change_Oct.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/281114/BALLB_Rechecking Result_No Change_Supple_Oct.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/281114/740_MJMC_TRIMESTER_DECLARE_RESULT_Aug_2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/281114/740_MJMC_SEMESTER_DECLARE_RESULT_Aug_2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/091014/MD_MS_Supplementary Result_ September 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/101014/45_MCA(SE)_Declare_result_Paras Rajora_Enrl. no. 00916404511_DEC._2013-Jan._2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/101014/045_MCA(SE)_Mercy_Revised_ Result_Pankaj (Enrl. no. 34MSEUSS2001)_May-June 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/131014/122_B.Ed(HI)_Declare_Result_july2014..pdf
+http://ggsipuresults.nic.in/ipu/results/2014/171014/11 Students_65_M.Tech.(ITW)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/171014/337_ADCGC_MJ2014_FINAL RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/201014/007_M.Tech.(DC)_Mercy_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/211014/RECHECKING RESULT May- June 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/211014/bds/INST__02 YEAR.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/211014/bds/INST__01 YEAR.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/211014/bds/02__INST.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/211014/bds/01__INST.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/271014/MBBS 1st Prof. Recheking Result of July 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/271014/Revised - Mercy Meeting Notice for students-December, 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/301014/Supplimentary result of BBA (All) September 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/301014/887_MBA(CM)_Final Result_July 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/301014/885_MBA(WE)_Final Result_July 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/301014/336_MBA(RE)_Final Result_July 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/301014/335_MBA(B&I)_Final Resultt_July 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/301014/Recheking Result of BDS Programme Exam Held in June- July 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/301014/MERCY__BTECH__JULY2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/301014/BTECH_SUPPLE_RESULT__OCT14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/311014/Supple_Result_Kartik Gandotra_1741033808_LLB_Final Result_Sept2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/311014/Supple_Result_BJMC_Sept.2014_final result.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/311014/Supple_Result_BHMCT_Sept.2014_final result.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/311014/Supple_Result_BALLB_BBALLB_Sept.2014_Final Result.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/311014/BPT Supplementary Result September 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/311014/B.Sc. (MLT) Supplementary Result September 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/311014/B.Sc (Nursing) Result of Apurva Goswami (Eno. 07218806613) May- June 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/311014/B.Pharma Supplementary Result September 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/311014/045__MCA(SE)_Supplementary_Dec_ared_Result_September_ 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/311014/044_MCA_Supplementary_Declared_Result_September_2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/311014/020_BCA_Supplementary_Declared_Result_September_2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/010914/ibrahim_ansari_revised_015_result_final result_dec13 (1).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/010914/Final Revised Result__MJMC_March 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/010914/4 students_6th sem_65_M.Tech.(ITW)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/010914/2nd_4th_65_M.Tech.(ITW)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/010914/2nd Sem_213_M.Tech.(BT)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/020914/Revised Result_39_MBA_May 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/020914/rechecking_gyan_deep_128_B.tech(ECE)_final_result_mj14 (1).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/020914/Rechecking Result_39_MBA_May 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/020914/No Change Rechecking Result_May 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/020914/Revision_38_LLB_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/020914/Rechecking_38_LLB_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/020914/No Change_Rechecking Result_BALLB_BBALLB_May 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/030914/Rechecking result of MBA (FM)_ May 2014_NO CHANGE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/030914/020_BCA_Rechecking Result_Shubham_Jain_Enrl._no._10917702011_May-June_2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/030914/8Students_4th Sem_07_M.Tech.(DC)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/030914/2nd & 4th_ Sem_42_M.Tech.(ECE)_Weekend_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040914/RTI Result B Tech.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050914/REVISED RESULT OF BBA(G) E T EXAM DEC 2013 (SHIVAM TYAGI 06920601711).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/090914/Rechecking Result BBA (TTM) End Term May 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/090914/Rechecking Result BBA (GEN) End Term Exam May 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/090914/Rechecking Result BBA (CAM) End Term Exam May 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100914/REVISED RESULT OF BBA G E T EXAM DEC 2013 (MUKUL MITTAL 16024401711 & SUMIT ARORA  10090301713).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100914/REVISED RESULT OF BBA CAM END TERM EXAM MAY 2014 (RAVI KUMAR GIRI 08921501911).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100914/revise_result_ananya mandal_pranav_arya_14_B.tech(CT)_final_RESULT_mj14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100914/rechecking_gyan_deep_128_B.tech(ECE)_final_result_mj14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100914/RECHECKING RESULT OF BBA ALL & BCOM H FOR NO CHANGE E T EXAM MAY2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100914/247_M.Sc.(NRM)_4th Semester_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100914/47_M.Sc.(EM)_4th Semester_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/110914/Revised_593_MBA(FM)_May 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/110914/2ndSem_886_MBA(DM)_May 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/110914/mbbs1stprof.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/120914/BTECH__ALLSEMESTER__RECHECKING_RESULT_MAY14__NEW.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/120914/BTECH__ALL SEMESTER__RECHECKING__NO CHANGE__MAY14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/120914/B.Sc (MTR) First Year Result May- June 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/140914/BTECH__REVISED RESULT__DECEMBER__2013__12092014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/140914/BTECH__ALL SEMESTER__REVISED RESULT__MAY2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/140914/bds2prf.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/140914/bds1stprof.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/150914/ec208.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/160914/PENDING & REVISED RESULT OF BBA (G) E T EXAM MAY 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/170914/Chandan_Dheeraj_4th Sem_53_M.Tech.(ITR)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/170914/PRAVEEN_AGARWAL_32_B.tech(CSE)_fiNAL_RESULT_mj14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/170914/YOGESH_32_REVISED_Result_FINAL_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180914/MBBS First Prof Supplementary Result 2014 (Eno.14120059012) & (16920059012.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180914/Book1.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/190914/kanika.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/190914/33_PGDPR_3_Trimester_Final Result_Aug2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230914/BAMS 2nd Prof. Supplementary 2010 Batch.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230914/BAMS 2nd Prof. 2012 Batch.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/240914/Rechecking Result_Vaibhav Kush_28810303812_38_LLB_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/240914/No Change_Rechecking Result_Mercy Student_LLB_May 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/240914/No Change_Rechecking Result_May-June 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/240914/335_MBA(B&I)_Result_Mercy_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/240914/85_MBA(W)_Mercy_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290914/15_mercy_MJ14_final_result.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290914/13_mercy_MJ14 final_result.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/300914/MBA (Disaster Management)_ 4th Semester.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040814/MERCY RESULT BBA G E T EXAM MAY 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040814/MERCY RESULT BBA CAM E T EXAM MAY 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040814/MERCY RESULT BBA B&I E T EXAM MAY 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040814/Jamil Rahman_Ph.D_Declare_Result_Jan2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040814/final result_PHD_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050814/BTECH__ALL SEMESTER__RECHECKING RESULT__DECEMBER 2013 CHANGE CASES.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050814/BTECH__7TH SEMESTER__RECHECKING RESULT__DECEMBER 2013  NO CHANGE CASES.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050814/BTECH__5TH SEMESTER__RECHECKING RESULT__DECEMBER 2013  NO CHANGE CASES.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050814/BTECH__3RD SEMESTER__RECHECKING RESULT__DECEMBER 2013  NO CHANGE CASES.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050814/BTECH__1ST SEMESTER__RECHECKING RESULT__DECEMBER 2013  NO CHANGE CASES.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050814/4th Sem_48_M.Tech.(CSE)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/060814/BTECH1__ALL__NSS__RESULT__D13__31072014__NEW.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040814/MERCY RESULT BBA G E T EXAM MAY 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040814/MERCY RESULT BBA CAM E T EXAM MAY 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040814/MERCY RESULT BBA B&I E T EXAM MAY 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040814/Jamil Rahman_Ph.D_Declare_Result_Jan2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040814/final result_PHD_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050814/BTECH__ALL SEMESTER__RECHECKING RESULT__DECEMBER 2013 CHANGE CASES.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050814/BTECH__7TH SEMESTER__RECHECKING RESULT__DECEMBER 2013  NO CHANGE CASES.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050814/BTECH__5TH SEMESTER__RECHECKING RESULT__DECEMBER 2013  NO CHANGE CASES.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050814/BTECH__3RD SEMESTER__RECHECKING RESULT__DECEMBER 2013  NO CHANGE CASES.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050814/BTECH__1ST SEMESTER__RECHECKING RESULT__DECEMBER 2013  NO CHANGE CASES.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050814/4th Sem_48_M.Tech.(CSE)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/060814/13_B.tech(BT)_8th_sem_final result_mj14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/080814/NCC__NSS__DEC13_ALL.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/080814/593_MBA(FM)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/080814/139_MBA(DD)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/080814/No change _Rechecking Result of B.Ed. Dec. 2013-Jan.14 (1).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/080814/7Students_4TH Sem_08_M.Tech.(RF)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/080814/4th Sem_07_M.Tech.(DC)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/080814/4th Sem_06_M.Tech.(RF)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/120814/DM-MCH JUNE 2014 RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/120814/Revise_result_01016401513_02916401513_15_B.tech(IT)_FINAL RESULT_mj14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/120814/revise_result_01016101410, 02016101409_draft14_B.tech(CT)_FINAL RESULT_mj14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/120814/Revise_02816001311_13_B.tech(BT)_FINAL RESULT_mj14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/120814/PRAVEEN AGRAWAL_final result_CSE_032_8th sem_MJ2012.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/120814/14_B.tech(CT)_ankur_rawal_final result_mj14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130814/397_PGDRP_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130814/4th Sem_213_M.Tech.(BT)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130814/4th Sem_10_M.Tech.(NANO)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/140814/97_M.Tech.(EP)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/200814/REVISED RESULT OF BBA G E T EXAM MAY 2013 (03224501712 SHUBHAM GOVIL).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/200814/REVISED RESULT OF BBA G E T EXAM DECMBER 2013 (03224501712 SHUBHAM GOVIL).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/200814/REVISED RESULT OF BBA G E T EXAM DECEMBER 2013 (01714701711 ATUL KUMAR & 03714701711 MOHIT KAKKAR).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/200814/MJMC_March-2014_Rechecking Result_with_No Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/200814/B.Ed._May-june 2014_Rechecking Result_with_No Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/200814/003_MSC(BDC)_4th Sem_FINAL RESULT_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210814/RECHECKING RESULT OF B.Pharma Dec 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210814/38_LLB_Mercy_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210814/PANKAJ KUMAR DAS_2 Sem FINAL_RESULT_MJ14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/270814/Rechecking_Change Case_24_BJMC_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/270814/BJMC_RECHECKING_NO CHANGE_MAY 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/280814/shashank_sharma_32_B.tech(CSE)_final_result_mj14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/280814/PANKAJ KUMAR DAS_13256_final_RESULT_MJ14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/280814/Anurag_4th Sem_07_M.Tech.(DC)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/280814/amar_meena_revised_final_result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/280814/01516404813_48657_revised_048_final_result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/280814/248_M.Tech.(CSE)_Weekend_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/280814/12th_sem_232_M.Tech.(CSE)_DD_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290814/BDS Result in Fourth Professional June 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290814/045_MCA(SE)_Revised_Result_May-June-2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290814/045_MCA(SE)_Mercy_Result_May-June-2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290814/045_MCA (SE)_Rechecking Result_No Change_May-June-2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290814/044_MCA_Revised_Result_May-June-2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290814/044_MCA_Rechecking_Result_May-June-2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290814/044_MCA_Rechecking Result_No Change_May-June-2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290814/020_BCA_Rechecking Result_No Change_May-June-2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290814/020__BCA__MERCY RESULT__May-June-2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290814/16_B.Arch_Rechecking Result_No Change_May-June-2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290814/16_B.Arch._Revised_Result_May-June-2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290814/REVISED_FINAL_RESULT__BCA_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290814/RECHECKING_FINAL_RESULT__BCA__MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/010714/REVISED RESULT OF BBA (G) END TERM EXAM DECEMBER 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/010714/REVISED RESULT OF BBA (B&I) JAYANT CARROL ROLL NO. 0071061807 E T E MAY 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050714/38_LLB_10th Sem_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/090714/PENDING RESULT OF BCOM H IST SEM  PRITHVI RAJ KOCHHAR (09112488813) & GUDIYA KUMARI (09212488813) E T EXAM DEC 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/090714/71__MPH(FE)__FINAL_RESULT__MJ14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/090714/11__B.PHARMA__FINAL_RESULT__MJ14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/med_2nd.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/msc_biodiversity_conservation_2.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/pgdpr_2.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/MCA_6.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/M.Sc.(EM)_2.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/58_M.Sc.(Crim)_2&4.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/MMC_2&4.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/121_BED(MR)_2.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/89_MCPHM_2_4.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/88_MAHM_2.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/59_M.SC.(FS)_2_4.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/21_B.Ed._2.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/020__BCA__2_4_6.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/009_MA ENGLISH_RESULT_2_4.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/22__BHMCT__2_4_6_8.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/24_BJMC_2_4_6.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/B.Com(H)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/170_final_result_mj14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/70_mlaw_2_4.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/044__MCA__2ND & 4TH SEM__DECLARED_RESULT_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/38_LLB_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/398_PGDELM_DECLARED_RESULT_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/143_MBA(IB)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/99_MBA(SEM)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100714/39_MBA_FINAL RESULT_MJ14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/110714/Revised result of Mr. Sumit Kumar, MBA (GEN) exam held in Dec. 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/110714/Revised result of Mr. Jayvardhan, MBA (SEM), exam held in May 2012.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/110714/740_MJMC_3 & 6_TRIMESTER__DECLARED_RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/110714/740_MJMC_1 & 3 SEMESTER_DECLARED_ RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/110714/399_B.Sc._Yoga Science_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/110714/190_BPO_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/110714/90_MPO_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/110714/80_BMTR_Result_MJ14_FINAL.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/110714/67_B.Sc.(MLT)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/110714/066_B.Sc(N)_FINAL RESULT_MJ14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/110714/26__BPT__RESULT__FINAL RESULT__MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/120714/403_MPT_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/120714/75_MPT(S)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/120714/72_MOT(N)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/120714/69_MPT(M)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/120714/68_MPT_N_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/140714/bds.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/150714/REGULAR& REAPPEAR RESULT OF BBA (TTM)  E T EXAM MAY 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/150714/REGULAR & REAPPEAR RESULT OF BBA (MOM)  E T EXAM MAY 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/150714/REGULAR & REAPPEAR RESULT OF BBA (G) 6TH SEM  E T EXAM MAY 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/150714/REGULAR & REAPPEAR RESULT OF BBA (G) 4TH SEM  E T EXAM MAY 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/150714/REGULAR & REAPPEAR RESULT OF BBA (CAM)  E T EXAM MAY 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/150714/REGULAR & REAPPEAR RESULT OF BBA (B&I) E T EXAM MAY 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/150714/96_BSALP_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/150714/REGULAR RESULT OF BBA (G) 2ND SEM  E T EXAM MAY 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/150714/REAPPEAR  RESULT OF BBA (G) 2ND SEM  E T EXAM MAY 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/150714/REAPPEAR  RESULT OF BBA (G) 2ND SEM  E T EXAM MAY 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180714/149_M.Tech.(FT)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180714/95_M.Tech.(CE)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180714/10th Sem_232_M.Tech.(CSE)_DD_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180714/10th Sem_215_M.Tech.(IT)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180714/2nd Sem_53_M.Tech.(IT)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180714/2nd Sem_52_M.Tech.(VLSI)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180714/2nd Sem_48_M.Tech.(CSE)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180714/2nd Sem_10_M.Tech.(NANO)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180714/2nd Sem_08_M.Tech.(RF)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180714/2nd Sem_07_M.Tech.(DC)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180714/2nd Sem_06_M.Tech.(RF)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180714/2nd Sem_05_M.Tech.(SP)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/2/112__BTECH__02 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/2/111__BTECH__02 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/2/110__BTECH__02 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/2/086__BTECH__02 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/2/056__BTECH__02 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/2/049__BTECH__02 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/2/037__BTECH__02 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/2/036__BTECH__02 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/2/034__BTECH__02 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/2/031__BTECH__02 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/2/030__BTECH__02 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/2/028__BTECH__02 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/2/027__BTECH__02 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/4/086__BTECH__04 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/4/056__BTECH__04 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/4/049__BTECH__04 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/4/037__BTECH__04 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/4/036__BTECH__04 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/4/034__BTECH__04 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/4/031__BTECH__04 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/4/030__BTECH__04 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/4/028__BTECH__04 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/4/027__BTECH__04 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230714/086_BTECH_6TH_MJ2014__new.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230714/056_BTECH_6TH_MJ2014__new.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/6/049__BTECH__6TH SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230714/037_BTECH_6TH_MJ2014__new.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230714/036_BTECH_6TH_MJ2014__new.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230714/034_BTECH_6TH_MJ2014__new.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/6/031__BTECH__6TH SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230714/030_BTECH_6TH_MJ2014__new.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230714/028_BTECH_6TH_MJ2014__new.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/6/027__BTECH__6TH SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/8/086__BTECH__08 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/8/056__BTECH__08 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/8/049__BTECH__08 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/8/037__BTECH__08 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/8/036__BTECH__08 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/8/034__BTECH__08 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/8/031__BTECH__08 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/8/030__BTECH__08 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/8/028__BTECH__08 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/8/027__BTECH__08 SEM.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210714/BTECH__ALL SEMESTER__REVISED RESULT__DECEMBER 2013__08072014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230714/128_B.tech(ECE)_2nd_4th, 6th & 8th Sem Result_mj14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230714/15_B.tech(IT)_2nd_4th, 6th & 8th Sem Result_mj14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230714/14_B.tech(CT)_2nd_4th, 6th & 8th Sem Result_mj14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230714/004_B.Tech(BC)_2nd Sem_ Result_mj14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230714/2_4_6th Sem_13_B.tech(BT)_Final Result_mj14.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230714/142_M.Tech.(ECE)_New Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230714/32_B.tech(CSE)_Final Result_mj14nw.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/240714/247_M.Sc.(NRM)_2_Semester_Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/240714/45_MCA(SE)__FINAL RESULT__MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/240714/044__MCA__MERCY __FINAL__RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/240714/24_BJMC_Mercy_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/240714/22_BHMCT_MERCY FINAL RESULT_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/240714/21_B.Ed.(Annual)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/240714/16_B.Arch._Final_Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/260714/12th Sem_215_M.Tech.(IT)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/260714/4th Sem_53_M.Tech.(ITR)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/260714/4th Sem_52_M.Tech.(VLSI)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/310714/4TH Sem_08_M.Tech.IS)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/310714/4TH Sem_05_M.Tech.(SP)_Final Result_MJ2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040614/Revised Result of_Swati Mittal_(Enrollment no.04918102113 of_B.Ed._Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040614/Rechecking Result of_B.Ed._Dec2013 with Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040614/Declaration of Withheld Result of B.Ed._Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040614/Declaration of Withheld Result of B.ED. (MR)_DEC.2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040614/045_MCA(SE)_revised result _DEC2013_Jan.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040614/045_MCA(SE)_mercy result_Dec. 2013-Jan.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040614/045_MCA (SE)_rechecking result_with No Change Dec.2013-Jan. 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040614/045_MCA (SE)_rechecking result_with change_ Dec. 2013-Jan.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040614/020_BCA_withheld result_Dec 2013-Jan.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040614/020_BCA_revised result_Dec. 2013-Jan.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040614/020_BCA_rechecking result_with No Change Dec.2013-Jan. 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040614/020_BCA_rechecking result_with change_Dec. 2013-Jan.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040614/Rechecking Result of_B.Ed._Dec2013 with No Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040614/PENDING RESULT OF  BBA(B&I) E T EXAM 2013 (VIPUL MEHTA 05814901813).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/110614/Rechecking Result MBA (CM)_Jan. 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/110614/PENDING RESULT OF BBA G E T EXAM DEC 13 (16014201711, 16114201711 & 16214201711).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/190614/Result of 10 students_TABULATION_M.Tech(ITW)_65_Mj2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/190614/kapil mohan_final _re-checking_15_result_dec13_190614.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/190614/hardik_gogia_final_result_dec13190614.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230614/RECHECKING RESULT OF BBA ALL & BCOM  H FOR NO CHANGE E T EXAM DEC 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230614/RECHECKING & REVISED RESULT OF BBA (G) E T EXAM DEC 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230614/RECHECKING & REVISED RESULT OF BBA (CAM) E T EXAM DEC 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230614/RECHECKING & REVISED RESULT OF BBA (B&I) E T EXAM DEC 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/230614/65_M.Tech_ITW__dec13_final_result.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/260614/MBBS 3RD PROF. PART I SUPPLEMENTARY MARCH 2014 RECHECKING RESULT OF RAJEEV KUMAR MEENA (0052009007).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/260614/MBBS 3RD PROF. PART I SUPPLEMENTARY MARCH 2014 RECHECKING RESULT OF LALJI MEENA (EN. NO. 0082009005.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/260614/BAMS SUPPLEMENTARY JAN.-FEB. 2014 RECHECKING RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/060514/deepnash_jain 11_B.PHRMA_DEC13_FINAL RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/060514/Deepmala_03622106609_FINAL_Revised Result_Aprl 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/060514/042_FINAL_Decal_result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/060514/Revisional_38_LLB_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/060514/Revision_21_B.Ed._Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/090514/Revised Result_593 MBA(FM)_Dec 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/090514/Revised Result_139 MBA(DD)_Dec 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/090514/Revised Result_009 MA(Eng)_ Dec 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/090514/Rechecking Result_39_MBA_Dec 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/090514/009_MA(Eng)_Mercy_Result_Dec 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100514/REVISED_RESULT_DINESH_15_final_result_mj13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100514/Revised_07616401510_015_final_result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100514/revised_02711805312_53_FINAL_result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100514/04116403209_232_M.tech_CSEDD__revised_FINAL_RESULT_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100514/01916100413_004_revised_result_fiNAL_RESULT_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100514/01516404813_revised_048_FINAL_result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/120514/Result of Rechecking and Inspection of Answer Sheets, MBA _All Programme_ exam held in Dec-2013 and Jan-2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130514/REVISED_b.tech_ece_128_final result_dec_2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130514/REVISED_006_rf_dec13_final_result.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130514/REVISED b.tech_bt_dec13_final result.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130514/Revised 015_result_final result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130514/MD_MS_Result_FINAL_April2014_130514.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130514/32_REVISED_Result_final result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130514/14_REVISED_Result_final result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/160514/PENDING RESULT OF BBAB&I(SUMIT SINGH PACHAR 09221201811 & MEGHA 04090101813) E T EX. DEC 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/160514/PENDING RESULT BBAG(BITTOO SHARMA 07596701713) E T EX. 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/160514/M.Sc. _EM_ _Dec.2013_Rechecking Result_No Change_.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/160514/BHMCT_Dec.2013_Rechecking Result_No Change_.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/160514/INST__01.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/160514/BBALLB_Dec.2013_Rechecking Result_No Change_.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/220514/RTI-RECHECKING_b.tech_ece_128_final result_dec_2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/220514/RTI-RECHECKING 015_final result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/220514/RTI-RECHECKING 013_final result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/220514/no change case.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/280514/PENDING RESULT OF BCOM(H) E. T. EXAM DEC 2013 (SHIVAL GUPTA 09296788813 & AVANEESH BARTHWAL 09196788813).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290514/Revision_35_BBALLB_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290514/Revised Result_Yatender Singh_08121503813_LLB_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290514/Revised Result_24_BJMC_DEC2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290514/Rechecking Result_With Change_38_LLB_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290514/Rechecking Result_With Change_24_BJMC_DEC2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290514/BALLB_Rechecking_No Change_Dec.2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290514/033_PGDPR_Revised_Result_Dec.-13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290514/88_MAHM_Dec.2013_Rechecking Result_With No Change_.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290514/89_MCPHM_Dec.2013_Rechecking_With Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290514/89_MCPHM_Dec.2013_Rechecking_With No Change.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290514/122_B.Ed.-Special Education (HI)_Regular Result_March 2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290514/140_MMC_Revised_Result_Dec-13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290514/MCA _Dec.2013_Rechecking Result_With No Change_.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290514/Declaration of Withheld_Result_of_MCA_Programme_for_Dec_2013-Jain._2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290514/Rechecking_Result of_MCA_Programme_with Change_for_Dec_2013-Jan._2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290514/Revised_result_of_MCA_Programme_for_Dec._2013-Jan._2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/030414/BSC(YOGA)__Result__Final Declalre.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/030414/248_M.tech_CSEW__FINAL_Result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/030414/53_M.Tech_ITR__final_result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/030414/048_M.Tech_CSE__FINAL_result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040414/MERCY RESULT OF BBA (TTM) E T EXAM DECEMBER 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040414/MERCY RESULT OF BBA (H) E T EXAM DECEMBER 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040414/MERCY RESULT OF BBA (G) E T EXAM DECEMBER 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040414/MERCY RESULT OF BBA (CAM) E T EXAM DECEMBER 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040414/MERCY RESULT OF BBA (B&I) E T EXAM DECEMBER 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050414/Vinod Yadav_886_MBA(DM)_Mercy_Declare_Result_Feb2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050414/Sunny Mittal_336_MBA(W)_RE_Mercy_Declare_result_Feb2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050414/Mercy_39_MBA_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050414/887_MBA(CM)_Declare_RESULT_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050414/886_MBA(DM)_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050414/885_MBA(G)_Declare_RESULT_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050414/593_MBA(FM)_Final Result_dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050414/336_MBA(RE)_WE_Declare_RESULT_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050414/335_MBA(BI)_WE_Declare_Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050414/139_MBA(DD)_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/070414/149_Final_result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/070414/RAJAT_SHARMA_00716414813_FINAL_RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/070414/09816401512_Final_result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/090414/GGSIPU_EXAM_RIV_2014_1297M__02__INST.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/090414/GGSIPU_EXAM_RIV_2014_1297M__01__INST.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/090414/232_M.tech_CSEDD__FINAL_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/090414/215_M.TECH_ITDD__DEC13_FINAL_RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/090414/13_students_6TH_SEM__042__FINAL_Result_MJ13_31042052013.PDF
+http://ggsipuresults.nic.in/ipu/results/2014/150414/mba.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/150414/15_B.tech_IT__declared_Final_MERCY_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/150414/14_B.tech_CT__Declared_result_MERCY_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/150414/13_B.tech_BT__declared_Final_MERCY_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/150414/007_MERCY_M.TECH_DC__DEC13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/160414/032_REGULAR_LATER_FINAL_result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/170414/Rechecking result of MBBS 2nd Prof.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210414/mbbs3rdpof.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/250414/Ph.D_Declare_Result_Jan2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290414/Revision Result_FT Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290414/Revision reappear result- MBA DD Dec 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290414/Revised_39_MBA_Dec 2011(Priyanka Goel).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290414/Revised_ 009_MA(Eng)_Dec. 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290414/Revised Result 39_MBA Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/290414/Revised Reappear 139 MBA DD Dec 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/300414/Revised_39_MBA_Dec 2011(Priyanka Goel).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/300414/Revised_ 009_MA(Eng)_Dec. 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/300414/Revised Result 39_MBA Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/300414/Revised Reappear 139 MBA DD Dec 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/300414/result of rechecking, MBBS.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/300414/result of rechecking, BHMS.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/300414/mbbsres1.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/300414/INST__01.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/300414/885_MBA(W)_July2013 (Monika Arora).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/030314/Rechecking result of MBBS 3rd Prof.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050314/rechecking MBBS 3rd Prorf.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050314/MBBS 3rd Prof. Part 1.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050314/GGSIPU_R4_2014_1257__Rechecking.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100314/mohit_thakur_tabulation_MJ13_65.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_1/112__01__DEC13__MET.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_1/111__01__DEC13__ME.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_1/110__01__DEC13__EE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_1/086__01__DEC13__TE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_1/056__01__DEC13__ENE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_1/049__01__DEC13__EEE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_1/049__01__DEC13__05413204913.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_1/037__01__DEC13__PE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_1/036__01__DEC13__MAE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_1/034__01__DEC13__CE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_1/031__01__DEC13__IT.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_1/030__01__DEC13__ICE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_1/028__01__DEC13__ECE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_1/027__01__DEC13__CSE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_3/086__03__DEC13__TE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_3/056__03__DEC13__ENE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_3/049__03__DEC13__EEE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_3/037__03__DEC13__PE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_3/036__03__DEC13__MAE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_3/034__03__DEC13__CE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_3/031__03__DEC13__IT.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_3/030__03__DEC13__ICE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_3/028__03__DEC13__ECE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_3/027__03__DEC13__CSE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_5/086__05__DEC13__TE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_5/056__05__DEC13__ENE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_5/049__05__DEC13__EEE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_5/037__05__DEC13__PE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_5/036__05__DEC13__MAE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_5/034__05__DEC13__CE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_5/031__05__DEC13__IT.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_5/030__05__DEC13__ICE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_5/028__05__DEC13__ECE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_5/027__05__DEC13__CSE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_7/086__07__DEC13__TE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_7/056__07__DEC13__ENE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_7/049__07__DEC13__EEE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_7/037__07__DEC13__PE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_7/036__07__DEC13__MAE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_7/034__07__DEC13__CE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_7/031__07__DEC13__IT.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_7/030__07__DEC13__ICE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_7/028__07__DEC13__ECE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/PDF_7/027__07__DEC13__CSE.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/Rolsy_final_mjmc_trimester_oct_13_result.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/Mph(fe)_71_final_result_DEC13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/BTECH__RESULT__MERCY__MJ13__0071042704.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/398_PGDELM_FINAL_RESULT_DEC2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/247_M.Sc.(NRM)_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/121_B.Ed.(MR)_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/89_MCPHM_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/88_MAHM_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/59_M.Sc.(FS)_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/58_MA(CRIM)_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/47_M.Sc.(EM)_Mercy Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/47_M.Sc.(EM)_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/044_MCA_FINAL DECLARED RESULT_DEC. 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/044__MCA__MERCY FINAL DECLARED RESULT_Dec. 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/33_PGDPR_1 and 3 module__Final Result_DEC2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/21_B.Ed._Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/020_BCA_MERCY_FINAL DECLARED RESULT_Dec.2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/020__BCA__Final Declared Result_Dec.2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/11_B.PHRMA_DEC13_final RESULT.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/003_M.Sc.(b&c)_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/001_M.ed_Dec13_result_FINAL.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/045_MCA(SE)_FINAL DECLARED RESULT_DEC. 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/more/REGULAR & REAPPEAR RESULT OF CAM  E T EXAM DECEMBER 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/more/REGULAR & REAPPEAR RESULT OF BBA TTM  E T EXAM DECEMBER 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/more/REGULAR & REAPPEAR RESULT OF BBA MOM E T EXAM DECEMBER 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/more/REGULAR & REAPPEAR RESULT OF BBA B&I  E T EXAM DECEMBER 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/more/REGULAR  RESULT OF BCOM (H) E T EXAM DECEMBER 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/more/143_MBA(IB)_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/more/99_MBA(SEM)_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/more/39_MBA_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/more/009_ma(eng)_result_finaldec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/170_LLM(W)_FINAL DECLARED RESULT_1st_3rd_Sem.DEC2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/70_LLM_FINAL DECLARED RESULT_1st_3rd_Sem._DEC2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/24_BJMC_MERCY_Declare RESULT_1st_3rd_5th_FEB.2014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/24_BJMC_FINAL DECLARED RESULT_1st_3rd_5th_Sem_DEC2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/22_BHMCT_FINAL DECLARED RESULT_1st_3rd_5th_7th_Sem._DEC2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/more/PGDRP_397_FINAL__result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/more/M.Tech_IS__008_1st_3rdsem_dec13_FINAL_result.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/more/M.Tech_ECE__142_Final_1stsem_result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/more/M.Tech_BT__213_Final_1stsem__3rdsem_result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/more/97_EP_FINAL_1sem_3rdsem_result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/more/95_Final__1sem_3rdsem_result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/more/52_FINAL_RESULT_M.Tech_VLSI_.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/38_Mercy_LLB_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/38_LLB_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/38_LLB_Chetanya singh_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/130314/35_BBALLB_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/140314/REGULAR & REAPPEAR RESULT OF BBA (G) IST SEMESTER  E T EXAM DECEMBER 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/140314/REGULAR & REAPPEAR RESULT OF BBA (G) 5TH SEMESTER  E T EXAM DECEMBER 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/140314/REGULAR & REAPPEAR RESULT OF BBA (G) 3TH SEMESTER  E T EXAM DECEMBER 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/140314/M.Tech_sp__005_1st_3rdsem_dec13_FINAL_result.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/140314/10_M.Tech._NST__All_Sem_Final_Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/140314/004_result_Final_Declared_Result_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/140314/006_M.Tech_RF__dec13_FINAL_result.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/140314/B.Tech_BT_dec13_1_3_5_7thsem_Final_Result.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/140314/190_BPO Supplementary_Final Result.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/140314/007_M.Tech_DC__dec13_Final_result.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180314/14_B.TECH_CE__result_ALL_SEM_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180314/Result of BCA Programme of Nitesh Thakur, Enrl. no. 02521202011of 2nd semester for  May-June2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180314/32_B.Tech_CSE_USS__FINAL_result_ALL_SEM_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180314/B.Tech_ECE_128_Final_Result_All_SEM_dec_2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180314/Rechecking result of MBBS 2nd Prof.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/180314/R_IV_1269_12-03-2014_10420059010_Inst.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/190314/B.TECH_IT__USS015_result_ALL_SEM_dec13.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/190314/140_MMC_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/200314/38_Mercy_Dhruv Chaudhary_LLB_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/200314/38_BALLB_Vineet & Ankita Arora_Final Result_Dec2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210314/bhms4yrs.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210314/bhms3rdyrs.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210314/INST_2011__02 YEAR.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210314/Inst__2012__01 YEAR.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/240314/Rechecking BAMS.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/270314/mbbs.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/030214/REVISED SUPPLEMENTARY SEPTEMBER 2013 (MR. VINEET NARANG ROLL NO. 09114901811).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040214/ggsipu__riv__exam__2013__1165M__21520059010__INST.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/040214/bph supple. recheckingpdf.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050214/Rechecking result of MBBS 1st Prof. Supplementary, exams held in Oct 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/050214/mbbsresult.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/060214/mbbs.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/070214/resmbbs.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100214/MBA Rechecking Result Exam held in July-August 2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/170214/Lalit Mohan_Revise_Declare_39_MBA_mercy_resultt_mj12.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/190214/mjmc_Final Result_trimester_oct_13_result.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/190214/mjmc_2nd_Final result_sem_oct_13_result.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210214/MBA (WE) _Rizvi_3rd Trimester.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210214/Amit Kumar Acharya_Declare_335_MBA(BI)_july12.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/210214/0261668907_11022014.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/240214/R-IV__1097__00150759111__INST.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/240214/bams.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/270214/rechecking BAMS (batch 2012).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/270214/MBBS E. NO. 140200590112.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/270214/ggsipu_RIV_14_1232M_Inst_03.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/270214/ggsipu_RIV_14_1232M_Inst_02.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/270214/ggsipu_RIV_14_1232M_Inst_01.pdf
+http://ggsipuresults.nic.in/ipu/results/2013/010114/Vikas Sethi_2nd Draft_MBA(W)_Trimester_Sep2011.pdf
+http://ggsipuresults.nic.in/ipu/results/2013/010114/Revised_593_MBA(FM)_Final Result_MJ2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2013/010114/Revised Final Result_MA_English_Dec2011.pdf
+http://ggsipuresults.nic.in/ipu/results/2013/010114/Kulbhushan & Rajshingh_result_swaping_Declare_336_MBA(RE)_july12.pdf
+http://ggsipuresults.nic.in/ipu/results/2013/010114/Kulbhushan & Rajshingh_Declare_result_swaping_336_MBA(RE)_Feb12.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/030114/Revised Result of BBA (G). 4th Semester E T Ex. May 12 (Dharmender Tanwar Roll No. 15119201709).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/030114/Regular & Reappear Result of BBA (G) E T Exam May 13 (Mohit Pal Arora Roll No. 02112401710).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/060114/Pratik Taneja_Declare_335_Mercy_Dec2012.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/060114/MBA (WE) Revision Result exam held  Jan2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/060114/MBA (WE) 3rd trimester Result of Mr. Ashish Tripathi (0721668507).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/060114/MBA (RE) 1st Trimester  Result Mr. Saosh Ashar(01516609009).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/100114/DINESH SINGH_885_MBA(W)_July2012.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/220114/REVISED RESULT OF BBA((B&I) E T EXAM DEC 2012 (KUSHAGRA BHATNAGAR ROLL NO. 1114701811).pdf
+http://ggsipuresults.nic.in/ipu/results/2014/280114/mbbs.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/310114/Revised_Result_Declare_885_MBA(W)_July2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/310114/NEW_Penaz Tyagi_Ist Trimester_Revise.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/310114/Jagbir Singh_I_Trimester_Dec2008.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/310114/Declare_Revised_335_MBA(W)_Result_July2013.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/310114/Vikram Rana_result_3rd & 4th Sem(Extra)_Aug2009.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/310114/New_Vikram Rana_result_3rd Sem_Aug2009.pdf
+http://ggsipuresults.nic.in/ipu/results/2014/310114/Final_Vikaram Singh Rana_IVSEM_Feb11.pdf
+/careers.php
+#
+meet_the_team
+rti.php
+contact_us.php
+http://spoken-tutorial.org/
+http://nptel.ac.in/
+http://164.100.158.135/2017/060917/2th%20Semester%20B.Tech%20Revised%20Result%20May%202017.pdf
+http://164.100.158.135/2017/060917/4th%20Semester%20B.Tech%20Revised%20Result%20May%202017.pdf
+http://164.100.158.135/2017/060917/6th%20Semester%20B.Tech%20Revised%20Result%20May%202017.pdf
+http://164.100.158.135/2017/060917/8th%20Semester%20B.Tech%20Revised%20Result%20May%202017.pdf
+http://164.100.158.135/2017/060917/UPTO%202014%20B.Tech%20Revised%20Result%20May%202017.pdf
+http://164.100.158.135/2017/300817/2015_004_BTECH(BC)_DECLARE_RESULT_MJ17.pdf
+http://164.100.158.135/2017/300817/2015_013_BTECH(BT)_DECLARE_RESULT_MJ17.pdf
+http://164.100.158.135/2017/300817/2015_014_BTECH(CE)_DECLARE_RESULT_MJ17.pdf
+http://164.100.158.135/2017/300817/2015_015_BTECH(IT)_DECLARE_RESULT_MJ17.pdf
+http://164.100.158.135/2017/300817/2015_032_BTECH(CSE)_DECLARE_RESULT_MJ17.pdf
+http://164.100.158.135/2017/300817/2015_128_BTECH(ECE)_DECLARE_RESULT_MJ17.pdf
+http://164.100.158.135/2017/300817/UPTO2014_004_BTECH(BC)_DECLARE_RESULT_MJ17_19004052017.pdf
+http://164.100.158.135/2017/300817/UPTO2014_013_BTECH(BT)_DECLARE_RESULT_MJ17_19013052017.pdf
+http://164.100.158.135/2017/300817/UPTO2014_014_BTECH(CE)_DECLARE_RESULT_MJ17_19014052017.pdf
+http://164.100.158.135/2017/300817/UPTO2014_015_BTECH(IT)_DECLARE_RESULT_MJ17.pdf
+http://164.100.158.135/2017/300817/UPTO2014_032_BTECH(CSE)_DECLARE_RESULT_MJ17.pdf
+http://164.100.158.135/2017/300817/UPTO2014_128_BTECH(ECE)_DECLARE_RESULT_MJ17_19128052017.pdf
+http://164.100.158.135/2017/180817/Revision_8th_SEM_UPTO2014_013_BTECH(BT)_DECLARE_RESULT_MJ17.pdf
+http://164.100.158.135/2017/110817/BTECH%20RECHECKING%20RESULT%20-%20DEC16%20-%202015%20ONWARDS.pdf
+http://164.100.158.135/2017/110817/BTECH%20RECHECKING%20RESULT%20-%20DEC16%20-%20UPTO%202014.pdf
+http://164.100.158.135/2017/100817/BTECH(CE)_%208th%20Semester_DECLARE_RESULT_MJ17_19014052017.pdf
+http://164.100.158.135/2017/310717/B.Tech_4th_READMISSION_REGULAR_CREDIT SYSTEM.pdf
+http://164.100.158.135/2017/310717/B.Tech_Reappear_2nd & 4th_Upto 2014 Batch.pdf
+http://164.100.158.135/2017/170717/8TH%20SEM_128_BTECH(ECE)_RESULT_MJ17.pdf
+http://164.100.158.135/2017/130717/8TH%20SEM_UPTO2014_032_BTECH(CSE)_DECLARE_RESULT_MJ17.pdf
+http://164.100.158.135/2017/130717/8TH%20SEM_UPTO2014_015_BTECH(IT)_DECLARE_RESULT_MJ17.pdf
+http://164.100.158.135/2017/120717/MUNISH_14_BTECH(BT)_MERCY_DECLARE_RESULT_JAN2017.pdf
+http://164.100.158.135/2017/050717/MAHESH_2014_128_B.Tech.(ECE)_DECLARE_RESULT_Dec2016_19128122016.pdf
+http://164.100.158.135/2017/050717/PHUNTSAS_2015%20Batch_13_B.Tech.(BT)_DECLARE_RESULT_Dec2016_19013122016.pdf
+http://164.100.158.135/2017/050717/RATN%20ROHAN_2015%20Batch_32_B.Tech.(CSE)_DECLARE_RESULT_Dec2016_19032122016.pdf
+http://164.100.158.135/2017/050717/SIDDHARTH%20ANAND_04_B.Tech.(BC)_DECLARE_RESULT_Dec2016.pdf
+http://164.100.158.135/2017/050717/VIKRAM%20SINGH_2015%20Batch_004_B.Tech.(BC)_DECLARE_RESULT_Dec2016_19004122016.pdf
+http://164.100.158.135/2017/050717/VIPUL%20SARKAR_Upto2014_14_B.Tech.(CT)_DECLARE_RESULT_Dec2016_19014122016.pdf
+http://164.100.158.135/2017/200617/ANU%20SHARMA_2014_15_B.Tech.(IT)_DECLARE_RESULT_Dec2016.pdf
+http://164.100.158.135/2017/200617/NISHTHA_04_B.Tech.(BC)_DECLARE_RESULT_Dec2016.pdf
+http://164.100.158.135/2017/200617/VINEET%20KUMAR_2015%20Batch_15_B.Tech.(IT)_DECLARE_RESULT_Dec2016.pdf
+http://164.100.158.135/2017/220517/Mercy%20result%20B.Tech(CE_IT_)%20Dec-2016%20Exam.pdf
+http://164.100.158.135/2017/080517/2015%20%20%20Batch_128_B.Tech.(ECE)_DECLARE_RESULT_Dec2016_19128122016.pdf
+http://164.100.158.135/2017/080517/2015%20%20Batch_15_B.Tech.(IT)_DECLARE_RESULT_Dec2016_19015122016.pdf
+http://164.100.158.135/2017/080517/2015%20Batch_32_B.Tech.(CSE)_DECLARE%20%20%20RESULT_Dec2016_19032122016.pdf
+http://164.100.158.135/2017/080517/Upto2014_128_B.Tech.(ECE)_DECLARE%20%20RESULT_Dec2016_19128122016.pdf
+http://164.100.158.135/2017/080517/Upto2014_15_B.Tech.(IT)_DECLARE_RESULT_Dec2016_19015122016.pdf
+http://164.100.158.135/2017/080517/Upto2014_32_B.Tech.(CSE)_DECLARE%20%20RESULT_Dec2016_19032122016.pdf
+http://164.100.158.135/2017/290417/B.tech%20Revised%20Result%20of%20AKSHAY%20DABAS(07613103612)%20Dec%202016.pdf
+http://164.100.158.135/2017/290417/B.tech%20Revised%20Result%20of%20GURINDER%20SWAN(04711504912)%20December%202016.pdf
+http://164.100.158.135/2017/290417/B.tech%20Revised%20Result%20of%20NARESH%20KUMAR%20RAJAK(11315604911)%20December%202016.pdf
+http://164.100.158.135/2017/290417/B.tech%20Revised%20Result%20of%20PRABHSIMAR%20SINGH(01851202813)%20Dec%202016.pdf
+http://164.100.158.135/2017/290417/B.tech%20Revised%20Result%20of%20RAVINDER%20KUMAR(05713102812)%20Dec%202016.pdf
+http://164.100.158.135/2017/290417/B.tech%20Revised%20Result%20of%20SHIVAM%20PRASHER(00811507713)%20Dec%202016.pdf
+http://164.100.158.135/2017/290417/B.tech%20Revised%20Result%20of%20SUSHIL%20SINGH%20BOHRA(04996302712)%20Dec%202016.pdf
+http://164.100.158.135/2017/290417/B.tech%20Revised%20Result%20of%20UZAIR%20ANWAR(06713102812)%20Dec%202016.pdf
+http://164.100.158.135/2017/250417/B.%20Tech%20(Bio-Tech)_2015%20Batch_13_B.Tech.(BT)_DECLAED_RESULT_Dec2016.pdf
+http://164.100.158.135/2017/250417/B.%20Tech%20(Bio-Tech)_Upto2014_13_B.Tech.(BT)_DECLARE_RESULT_Dec2016.pdf
+http://164.100.158.135/2017/130417/2013_reappear_only_14_B.Tech.(CE)_RESULT_Dec2016.pdf
+http://164.100.158.135/2017/110417/2015%20Batch_14_B.Tech.(CT)_DECLARE_RESULT_Dec2016.pdf
+http://164.100.158.135/2017/110417/Upto2014_14_B.Tech.(CT)_DECLARE_RESULT_Dec2016.pdf
+http://164.100.158.135/2017/070417/Upto2014_04_B.Tech.(BC)_DECLARE_RESULT_Dec2016_19004122016.pdf
+http://164.100.158.135/2017/070417/2015%20Batch_04_B.Tech.(BC)_DECLARE_RESULT_Dec2016_19004122016.pdf
+http://164.100.158.135/2017/230317/DECEMBER%202016/3rd%20Semester/B.Tech_Reappear_3rd_UPTO%202014%20BATCH.pdf
+http://164.100.158.135/2017/230317/DECEMBER%202016/3rd%20Semester/B.Tech_3rd_READMISSION_REGULAR_CREDIT%20SYSTEM.pdf
+http://164.100.158.135/2017/230317/DECEMBER%202016/1st%20Semester/B.Tech_Reappear_1st_UPTO%202014%20BATCH.pdf
+http://164.100.158.135/2016/231216/B.Tech%20(ALL)%20Revised%20result%20ET%20Exam%20May%202016.pdf
+http://164.100.158.135/2016/231216/Revised%20result%20of%20Sahil%20Pahuja,%20en.%20no.%2005696402814,%20B.tech%20Program.pdf
+http://164.100.158.135/2016/051216/B.Tech.(Affiliated)_Final%20Supple_Final%20Result_Sep.%202016.pdf
+http://164.100.158.135/2016/021216/M.Tech._B.Tech._USS_Aff.%20Final%20Supple_Final%20%20Result_Oct2016.pdf
+http://164.100.158.135/2016/301116/BTECH__RECHECKING_RESULT__2015__MJ2016.pdf
+http://164.100.158.135/2016/301116/BTECH__RECHECKING_RESULT__UPTO2014__MJ2016.pdf
+http://164.100.158.135/2016/301116/No%20Change%20Cases%20Rechecking%20Result%20B.Tech%20Affiliated%20Institute%20May-June%20Examination%202015.pdf
+http://164.100.158.135/2016/071016/Mercy_B.Tech.(USS)MJ16.pdf
+http://164.100.158.135/2016/270916/BTECH__REVISED_RESULT__2015__MJ2016.pdf
+http://164.100.158.135/2016/270916/BTECH__REVISED_RESULT__UPTO2014__MJ2016.pdf
+http://164.100.158.135/2016/270916/BTECH__REVISED_RESULT__2015__MJ2016.pdf
+http://164.100.158.135/2016/160916/BTECH__REVISED%20RESULT__DEC2015__10596404912__.pdf
+http://164.100.158.135/2016/160916/revised%20result%20of%20B.tech%20Dec-15.pdf
+http://164.100.158.135/2016/230816/BTECH__REVISED%20RESULT__DEC2015__08713103612.pdf
+http://164.100.158.135/2016/220816/BTECH__REVISED%20RESULT__DEC2015__BATCH2015(1st%20sem).pdf
+http://164.100.158.135/2016/220816/BTECH__REVISED%20RESULT__DEC2015__UPTO2014(3rd%20to%207th).pdf
+http://164.100.158.135/2016/170816/b.tech_bc_04_final_result_mj16.pdf
+http://164.100.158.135/2016/170816/b.tech_bt_13_final_result_mj16.pdf
+http://164.100.158.135/2016/170816/b.tech_cse_32_final_result_mj16.pdf
+http://164.100.158.135/2016/170816/b.tech_ct_14_final_result_mj16.pdf
+http://164.100.158.135/2016/170816/b.tech_ece_128_final_result_mj16.pdf
+http://164.100.158.135/2016/170816/b.tech_it_15_final_result_mj16.pdf
+http://164.100.158.135/2016/110816/BTECH__RECHECKING_RESULT__DEC2015__2015BATCH.pdf
+http://164.100.158.135/2016/110816/BTECH__RECHECKING_RESULT__DEC2015__UPTO2014.pdf
+http://164.100.158.135/2016/110816/No%20Change%20Cases%20Rechecking%20Result%20B.Tech%20Affiliated%20Institute%20May-June%20Examination%202015.pdf
+http://164.100.158.135/2016/050816/8th%20Sem_13_B.Tech.(BT)_USS_Final_MJ2016.pdf
+http://164.100.158.135//ExamResults/2016/140716/8th Sem_128_B.Tech.(ECE)_USS_Final Result_MJ2016.pdf
+http://164.100.158.135//ExamResults/2016/140716/8th Sem_32_B.Tech.(CSE)_USS_Final Result_MJ2016.pdf
+http://164.100.158.135//ExamResults/2016/140716/8th Sem_15_B.Tech.(IT)_USS_Final Result_MJ2016.pdf

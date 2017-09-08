@@ -1,8 +1,9 @@
 import PyPDF2
 import sqlite3
 import re
+import os
 
-links = open('pdf_links_.txt', 'r')
+
 errors = open('error.txt', 'w')
 conn = sqlite3.connect('student_dat_test.sqlite')
 cur = conn.cursor()
@@ -27,22 +28,31 @@ CREATE TABLE IF NOT EXISTS  ex_scheme (
     sem INTEGER
 );
 ''')
-j = 0
-
 
 #finding exam scheme
 def exam(line):
-    _idx = [i for i, item in enumerate(line) if re.search('./Year',item)]
-    _idx = _idx[0]
-    _idx = line[_idx].split()
-    sem = int(_idx[1])
+    _idx = [i for i, item in enumerate(line) if re.search('./Year',item) or re.search('SEMESTER',item)]
+    try:
+        for l in _idx:
+            _l = line[l]
+        _idx = ''.join(_l)
+        #_idx = line[_idx].split()
+        sem = int(re.findall(' 0\d ',_idx)[0])
+    except:
+        errors.write(pdfpath + ':' + str(j) + '\n' + 'Sem not found\n')
+        sem = None
+        pass
     line_idx = [i for i, item in enumerate(line) if item.startswith('Pass Marks')]
-    del line[:line_idx[0]+1]
+    try:
+        del line[:line_idx[0]+1]
+    except:
+        errors.write(pdfpath + ':' + str(j) + '\n' + 'Formatting wrong\n')
+        return 0
     sr_idx = [i for i, item in enumerate(line) if re.search('^\d{2}$', item)]
     i = 0
-    for j in sr_idx:
+    for k in sr_idx:
         try:
-            del line[j-i]
+            del line[k-i]
         except:
             pass
         i = i + 1
@@ -67,21 +77,21 @@ def exam(line):
         try:
             paper_id = int(s[0])
         except:
-            errors.write(link+':'+j+'\n'+s[0])
+            errors.write(pdfpath+':'+str(j)+'\n'+s[0])
             continue
         code = s[1]
         subject = s[2]
         try:
             credit = int(s[3])
         except:
-            errors.write(link+':'+j+'\n'+s[3])
+            errors.write(pdfpath+':'+str(j)+'\n'+s[3])
             continue
         type_ = s[4]
         if s[8] != '--':
             try:
                 minor = int(s[8])
             except:
-                errors.write(link+':'+j+'\n'+s[8]+':minor')
+                errors.write(pdfpath+':'+str(j)+'\n'+s[8]+':minor')
                 continue
         else:
             minor = None
@@ -89,14 +99,14 @@ def exam(line):
             try:
                 major = int(s[9])
             except:
-                errors.write(link+':'+j+'\n'+s[9]+':major')
+                errors.write(pdfpath+':'+str(j)+'\n'+s[9]+':major')
                 continue
         else:
             major = None
         try:
             pass_m = int(s[11])
         except:
-            errors.write(link+':'+j+'\n'+s[11]+':pass_m')
+            errors.write(pdfpath+':'+str(j)+'\n'+s[11]+':pass_m')
             continue
 
         #print(paper_id, code, subject, credit, type_, minor, major, pass_m, sem)
@@ -133,10 +143,13 @@ def check_data(dat, n):
         )''')
         cur.execute('''REPLACE INTO ''' + '"' + str(roll_no) + '"' +''' (sub, internal, external) VALUES (?, ?, ?)''',(int(key),subs[key][0],subs[key][1]))
         conn.commit()
-for link in links:
-    pdfres = PyPDF2.PdfFileReader(open(link, 'rb'))
+for files in os.listdir('./res_pdf'):
+    global pdfpath 
+    pdfpath= os.path.join('res_pdf', files)
+    pdfres = PyPDF2.PdfFileReader(open(pdfpath, 'rb'))
     pg = pdfres.getNumPages()
-
+    global    j
+    j = 0
     count = 0
     while j < pg:
 
@@ -147,13 +160,14 @@ for link in links:
         j = j + 1
         txt = res.extractText()
         txt = txt.strip()
-        print(txt)
+        #print(txt)
         line = txt.split('\n')
         while '' in line:
             line.remove('')
         print(line)
         if txt.startswith('(SCHEME OF EXAMINATIONS)'):
-            exam(line)
+            if exam(line) == 0:
+                break
             continue
         line_idx = [i for i, item in enumerate(line) if item.startswith('RTSID:')] #finding all the unnecessary data
         if len(line_idx) < 1: continue
@@ -180,3 +194,4 @@ for link in links:
             err = check_data(s,count)
             count = count + 1
     #print (len(stud[0]),count)
+errors.close()
